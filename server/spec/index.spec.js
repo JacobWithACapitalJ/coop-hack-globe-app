@@ -4,8 +4,12 @@ const { expect } = chai;
 chai.use(require('chai-sorted'));
 const app = require('../app');
 const request = require('supertest')(app);
+const connection = require('../../database/connection')
 
 describe('/api', () => {
+    after(() => {
+        connection.destroy()
+    });
     it('catches bad endpoints with a 404', () => {
         return request
             .get('/hamsterDance')
