@@ -176,52 +176,6 @@
 
         var xhr;
         TWEEN.start();
-        //just setting up test data of the first 100
-        // let data = axios
-        //   .get(
-        //     `https://www.refugerestrooms.org/api/v1/restrooms.json?per_page=100`
-        //   )
-        //   //     //&offset=${//Math.floor(
-        //   //   100 * Math.random() + Math.random() * 50
-        //   //       )
-        //   // }
-        //   .then(results => {
-        //     let out = [];
-        //     let mag = [];
-        //     console.log(results);
-        //     results.data.forEach((location, index) => {
-        //       // console.log(results.data[index + 1]);
-        //       // if (
-        //       //   location.latitude -
-        //       //     (results.data[index + 1].latitude == undefined
-        //       //       ? 0
-        //       //       : results.data[index + 1].latitude) >
-        //       //   1
-        //       // ) {
-        //       //   location.latitude =
-        //       //     (location.latitude + results.data[index + 1].latitude) / 2;
-        //       // }
-        //       // if (
-        //       //   location.longitude -
-        //       //     (results.data[index + 1].longitude == undefined
-        //       //       ? 0
-        //       //       : results.data[index + 1].longitude) >
-        //       //   1
-        //       // ) {
-        //       //   location.longitude =
-        //       //     (location.longitude + results.data[index + 1].longitude) / 2;
-
-        //       // }
-        //       console.log(location);
-        //       out.push(location.latitude, location.longitude, 0.2);
-        //     });
-
-        //     var testData = [["seriesA", out]];
-        //     console.log(testData);
-        //     return testData;
-        //   })
-
-        //   .then(testData => {
         xhr = new XMLHttpRequest();
         xhr.open("GET", "/database/toiletDatabase/data.json", true);
         xhr.onreadystatechange = function(e) {
@@ -252,7 +206,6 @@
           }
         };
         xhr.send(null);
-        // });
       }
     </script>
   </body>
