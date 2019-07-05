@@ -121,7 +121,7 @@
     </div>
 
     <div id="title">
-      World Population
+      Crap-App
     </div>
 
     <a id="ce" href="http://www.chromeexperiments.com/globe">
@@ -177,50 +177,82 @@
         var xhr;
         TWEEN.start();
         //just setting up test data of the first 100
-        let data = axios
-          .get(
-            "https://www.refugerestrooms.org/api/v1/restrooms.json?per_page=100"
-          )
-          .then(results => {
-            let out = [];
-            console.log(results);
-            let filtered = results.data.map(location => {
-              out.push(
-                location.latitude,
-                location.longitude,
-                Math.random() / 5
-              );
-            });
+        // let data = axios
+        //   .get(
+        //     `https://www.refugerestrooms.org/api/v1/restrooms.json?per_page=100`
+        //   )
+        //   //     //&offset=${//Math.floor(
+        //   //   100 * Math.random() + Math.random() * 50
+        //   //       )
+        //   // }
+        //   .then(results => {
+        //     let out = [];
+        //     let mag = [];
+        //     console.log(results);
+        //     results.data.forEach((location, index) => {
+        //       // console.log(results.data[index + 1]);
+        //       // if (
+        //       //   location.latitude -
+        //       //     (results.data[index + 1].latitude == undefined
+        //       //       ? 0
+        //       //       : results.data[index + 1].latitude) >
+        //       //   1
+        //       // ) {
+        //       //   location.latitude =
+        //       //     (location.latitude + results.data[index + 1].latitude) / 2;
+        //       // }
+        //       // if (
+        //       //   location.longitude -
+        //       //     (results.data[index + 1].longitude == undefined
+        //       //       ? 0
+        //       //       : results.data[index + 1].longitude) >
+        //       //   1
+        //       // ) {
+        //       //   location.longitude =
+        //       //     (location.longitude + results.data[index + 1].longitude) / 2;
 
-            var testData = [["seriesA", out]];
-            console.log(testData);
-            return testData;
-          })
+        //       // }
+        //       console.log(location);
+        //       out.push(location.latitude, location.longitude, 0.2);
+        //     });
 
-          .then(testData => {
-            xhr = new XMLHttpRequest();
-            xhr.open("GET", "/globe/population909500.json", true);
-            xhr.onreadystatechange = function(e) {
-              if (xhr.readyState === 4) {
-                if (xhr.status === 200) {
-                  var data = testData; //JSON.parse(xhr.responseText);
-                  window.data = data;
-                  for (i = 0; i < data.length; i++) {
-                    globe.addData(data[i][1], {
-                      format: "magnitude",
-                      name: data[i][0],
-                      animated: true
-                    });
-                  }
-                  globe.createPoints();
-                  settime(globe, 0)();
-                  globe.animate();
-                  document.body.style.backgroundImage = "none"; // remove loading
-                }
+        //     var testData = [["seriesA", out]];
+        //     console.log(testData);
+        //     return testData;
+        //   })
+
+        //   .then(testData => {
+        xhr = new XMLHttpRequest();
+        xhr.open("GET", "/database/toiletDatabase/data.json", true);
+        xhr.onreadystatechange = function(e) {
+          if (xhr.readyState === 4) {
+            if (xhr.status === 200) {
+              let out = [];
+              var data = JSON.parse(xhr.responseText);
+              data.forEach((location, index) => {
+                out.push(location.latitude, location.longitude, 0.2);
+              });
+
+              var testData = [["seriesA", out]];
+              console.log(testData);
+              data = testData;
+              window.data = data;
+              for (i = 0; i < data.length; i++) {
+                globe.addData(data[i][1], {
+                  format: "magnitude",
+                  name: data[i][0],
+                  animated: true
+                });
               }
-            };
-            xhr.send(null);
-          });
+              globe.createPoints();
+              settime(globe, 0)();
+              globe.animate();
+              document.body.style.backgroundImage = "none"; // remove loading
+            }
+          }
+        };
+        xhr.send(null);
+        // });
       }
     </script>
   </body>
