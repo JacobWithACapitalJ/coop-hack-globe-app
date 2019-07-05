@@ -1,0 +1,29 @@
+[
+  {
+    "longitude": 1,
+    "latitude": 1,
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 12,
+    "city": "Leeds"
+  },
+  {
+    "longitude": 8,
+    "latitude": 6,
+    "total_records": 12,
+    "accessible_count": 5,
+    "unisex_count": 4,
+    "changing_table_count": 5,
+    "city": "Manchester"
+  },
+  {
+    "longitude": 8,
+    "latitude": 9,
+    "total_records": 5,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 1,
+    "city": "Wakefield"
+  }
+]

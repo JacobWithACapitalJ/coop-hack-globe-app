@@ -1,5 +1,5 @@
-// const knex = require("knex");
-// const dbconfig = require("<Insert path here>");
-// const connection = knex(dbconfig);
+const knex = require("knex");
+const dbconfig = require("../knexfile");
+const connection = knex(dbconfig);
 
-// module.exports = connection;
+module.exports = connection;
