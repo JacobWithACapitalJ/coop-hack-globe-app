@@ -1,13 +1,11 @@
-// const { <insert data here to require in>} = require("<enter path here>")
-
-// exports.seed = function(knex, Promise) {
-//   return knex.migrate
-//     .rollback()
-//     .then(() => knex.migrate.latest())
-//     .then(() => {
-//       const toiletsInsertions = knex("toilets").insert(<enter toilets data here>)
-//       return Promise.all(toiletsInsertions).then(()=>{
-//         return knex("toilets").returning("*")
-//       })
-//     });
-// };
+const toiletData = require("../toiletDatabase/data.json");
+exports.seed = function(knex, Promise) {
+  // const toiletsInsertions = knex("toilets").insert(toiletData);
+  return knex.migrate
+    .rollback()
+    .then(() => knex.migrate.latest())
+    .then(() => {
+      return knex("toilets").insert(toiletData);
+    })
+    .catch(console.log);
+};
