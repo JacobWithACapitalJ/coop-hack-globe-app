@@ -10,7 +10,8 @@
     "seed": "knex seed:run",
     "setup-dbs": "psql -f ./database/db.sql",
     "test-server": "mocha server/spec/index.spec.js",
-    "dev": "nodemon server/listen.js"
+    "dev": "nodemon server/listen.js",
+    "start": "node server/listen.js"
   },
   "repository": {
     "type": "git",
