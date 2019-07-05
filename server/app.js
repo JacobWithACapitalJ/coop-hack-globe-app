@@ -1,12 +1,15 @@
-const express = require('express');
-const toiletsRouter = require('./toiletsRouter');
+const express = require('express')
+const app = express()
+const apiRouter = require('./routers/apiRouter')
+const {getToilets} = require('./controllers')
+const { handleWithCode, catchAll404, handle500 } = require('./errors/')
+app.use(express.json())
 
+app.use('/api/', apiRouter)
 
-const apiRouter = express.Router();
-const apiJSON = require('../api.json')
-// apiRouter.route('/').get((req, res, next)=>res.status(200).send(apiJSON))
-//     .all(badMethod)
+app.use('/*', catchAll404)
+// app.use(handlePGerrors)
+app.use(handleWithCode)
+app.use(handle500)
 
-apiRouter.use('/users', usersRouter);
-
-module.exports = apiRouter;
+module.exports = app
