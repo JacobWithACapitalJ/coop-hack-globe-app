@@ -1,6 +1,6 @@
 const _pick = require("lodash/pick");
 
-const cleanseToiletData = toilets => {
+exports.cleanseToiletData = toilets => {
   const cleansedData = [];
   const toPick = [
     "latitude",
