@@ -1,6 +1,6 @@
 const _pick = require("lodash/pick");
 
-exports.cleanseToiletData = toilets => {
+exports.toiletBrush = toilets => {
   const cleansedData = [];
   const toPick = [
     "latitude",
@@ -15,4 +15,9 @@ exports.cleanseToiletData = toilets => {
     cleansedData.push(_pick(toilet, toPick));
   });
   return cleansedData;
+};
+
+//function to take large list of toilet data and group by area - to be discussed
+exports.consolidateToilets = toilets => {
+  const radius = 0.01;
 };
