@@ -4,7 +4,8 @@
   "description": "The **WebGL Globe** is an open platform for geographic data visualization created by the Google Data Arts Team. We encourage you to copy the code, add your own data, and create your own globes.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test-server": "mocha spec/index.spec.js",
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "homepage": "https://github.com/JacobWithACapitalJ/coop-hack-globe-app#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-sorted": "^0.2.0",
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
   }
 }
