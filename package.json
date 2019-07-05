@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JacobWithACapitalJ/coop-hack-globe-app/issues"
   },
-  "homepage": "https://github.com/JacobWithACapitalJ/coop-hack-globe-app#readme"
+  "homepage": "https://github.com/JacobWithACapitalJ/coop-hack-globe-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
