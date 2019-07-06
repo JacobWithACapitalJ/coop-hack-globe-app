@@ -1,4 +1,5 @@
 exports.handleWithCode = (err, req, res, next) => {
+    console.log(err)
     if (err.code) res.status(err.code).send(err)
     else next(err)
 }
