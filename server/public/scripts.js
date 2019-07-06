@@ -1,10 +1,11 @@
 const uniSexBut = document.getElementById("unisex");
+const apiUrl = (window.location.hostname.includes('heroku')) ? "https://thunderbox.herokuapp.com/api/toilets" : 'localhost:9090/api/toilets';
 
 uniSexBut.addEventListener("onclick", getUnisex);
 
 function getUnisex() {
   axios
-    .get(window.location.host + "/api/toilets")
+    .get(apiUrl)
     .then(response => console.log(response))
     .catch(console.log);
 };
@@ -15,7 +16,7 @@ function getAllData() {
 
   if (!sessionStorage.getItem('toilets')) {
   axios
-    .get("https://thunderbox.herokuapp.com/api/toilets")
+    .get(apiUrl)
     .then(({data: {toilets}}) => {
       sessionStorage.setItem('toilets', JSON.stringify(toilets));
     })

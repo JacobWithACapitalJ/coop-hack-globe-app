@@ -1,4 +1,4 @@
-const toiletData = require("../toiletDatabase/data.json");
+const toiletData = require("../toiletDatabase");
 exports.seed = function(knex, Promise) {
   // const toiletsInsertions = knex("toilets").insert(toiletData);
   return knex.migrate
