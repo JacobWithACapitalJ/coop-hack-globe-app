@@ -6,7 +6,7 @@ exports.getToilets = ({ query }, res, next) => {
     fetchToilets(query)
         .then((toilets)=> {
             res.set({
-                ['Access-Control-Allow-Origin']: url
+                ['Access-Control-Allow-Origin']: '*'
             })
             res.status(200).send({toilets})
         })
