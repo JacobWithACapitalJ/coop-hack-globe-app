@@ -12,9 +12,11 @@ function getUnisex() {
 
 
 function getAllData() {
+
   if (!sessionStorage.getItem('toilets')) {
   axios
-    .get(window.location.host + "9090/api/toilets")
+    console.log(window.location.host + "/api/toilets")
+    .get(window.location.host + "/api/toilets")
     .then(({data: {toilets}}) => {
       sessionStorage.setItem('toilets', JSON.stringify(toilets));
     })
