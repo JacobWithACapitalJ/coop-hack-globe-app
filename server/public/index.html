@@ -118,21 +118,25 @@
                     data = testData
                     data[0][1] = unisex
                     window.data = data;
+                    globe.addData(data[2][1], {
+                      format: "magnitude",
+                      name: data[2][0],
+                      animated: true
+                    });
                     globe.createPoints();
-                    settime(globe, 0)();
                     globe.animate();
                   }
 
-                  console.log(testData);
-                  data = testData;
-                  window.data = data;
-                  for (i = 0; i < data.length; i++) {
-                    globe.addData(data[i][1], {
-                      format: "magnitude",
-                      name: data[i][0],
-                      animated: true
-                    });
-                  }
+                  // console.log(testData);
+                  // data = testData;
+                  // window.data = data;
+                  // for (i = 0; i < data.length; i++) {
+                  //   globe.addData(data[i][1], {
+                  //     format: "magnitude",
+                  //     name: data[i][0],
+                  //     animated: true
+                  //   });
+                  // }
                   globe.createPoints();
                   settime(globe, 0)();
                   globe.animate();
