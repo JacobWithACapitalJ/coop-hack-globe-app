@@ -6,7 +6,7 @@ exports.getToilets = ({ query }, res, next) => {
     fetchToilets(query)
         .then((toilets)=> {
             res.set({
-                ['Access-Control-Allow-Origin']: '*'
+                ['Access-Control-Allow-Origin']: 'https://thunderbox.herokuapp.com/'
             })
             res.status(200).send({toilets})
         })
