@@ -9,6 +9,7 @@ exports.fetchToilets = ({city}) => {
 }
 
 exports.fetchBiggestToilet = ({property}) => {
+    console.log(property)
     return connection('toilets')
         .max(property)
         .returning('*')

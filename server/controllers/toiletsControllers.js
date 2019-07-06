@@ -1,4 +1,4 @@
-const { fetchToilets } = require("../models");
+const { fetchToilets, fetchBiggestToilet } = require("../models");
 
 exports.getToilets = ({ query }, res, next) => {
   const url =
@@ -16,7 +16,7 @@ exports.getToilets = ({ query }, res, next) => {
 };
 
 exports.getBiggestToilet = ({params}, res, next) => {
-    return fetchBiggestToilet(params)
+    fetchBiggestToilet(params)
         .then((result) => {
             res.status(200).send(result[0])
         })
