@@ -105,35 +105,39 @@
                     changingTables.push(location.latitude, location.longitude, location.total_records/100);
                   });
                   data.forEach((location, index) => {
-                    unisex.push(location.latitude, location.longitude, location.total_records);
+                    unisex.push(location.latitude, location.longitude, location.unisex_count/240);
                   });
                   data.forEach((location, index) => {
                     accessible.push(location.latitude, location.longitude, location.accessible_count/100);
                   });
                   var testData = [["seriesA", total_records],["seriesB", changingTables],["seriesC", unisex],["seriesD", accessible]];
                   const button = document.getElementById("unisex")
-                  button.addEventListener("click", changeData)
-                  function changeData(){
-                    console.log("<<<<<<<<<<>>>>>>>>>>>>>>>>")
-                    console.log(globe)
-                    data = testData
-                    data[0][1] = unisex
-                    window.data = data;
-                    globe.createPoints();
-                    settime(globe, 0)();
-                    globe.animate();
-                  }
+                  // button.addEventListener("click", changeData)
+                  // function changeData(){
+                  //   console.log("<<<<<<<<<<>>>>>>>>>>>>>>>>")
+                  //   console.log(globe)
+                  //   data = testData
+                  //   data[0][1] = unisex
+                  //   window.data = data;
+                  //   globe.addData(data[2][1], {
+                  //     format: "magnitude",
+                  //     name: data[2][0],
+                  //     animated: true
+                  //   });
+                  //   globe.createPoints();
+                  //   globe.animate();
+                  // }
 
                   console.log(testData);
                   data = testData;
                   window.data = data;
-                  for (i = 0; i < data.length; i++) {
-                    globe.addData(data[i][1], {
+                  
+                    globe.addData(data[2][1], {
                       format: "magnitude",
-                      name: data[i][0],
+                      name: data[2][0],
                       animated: true
                     });
-                  }
+                  
                   globe.createPoints();
                   settime(globe, 0)();
                   globe.animate();
