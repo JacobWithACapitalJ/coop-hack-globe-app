@@ -32,14 +32,16 @@ main {
   align-items: stretch;
 }
 #filter_menu {
+  background: none;
+  z-index: 100;
   grid-area: filter_menu;
-  height: 60%;
+  height: 40%;
   width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  /* padding-top: 40px;
-  padding-left: 50px; */
+  margin-top: 80px;
+  margin-left: 130px;
 }
 
 #globe {
@@ -53,7 +55,7 @@ footer {
   position: fixed;
   display: flex;
   flex-direction: row;
-  height: 100px;
+  height: 115px;
   justify-content: space-around;
   bottom: 0;
 }
@@ -79,7 +81,8 @@ footer {
 #github {
   width: 70px;
   height: 70px;
-  margin-left: 25px;
+  margin-left: 35px;
+  margin-top: 35px;
 }
 
 #NCLogo {
@@ -97,16 +100,18 @@ footer {
 }
 
 #description {
-  width: 230px;
-  padding-left: 20px;
+  width: 430px;
+  margin-bottom: 100px;
 }
 
 button {
-  background: #3498db;
+  background: #476274;
+  text-decoration: black;
   width: 120px;
   height: 40px;
   padding: 4px 0;
   border-radius: 3px;
+  color: aliceblue;
 }
 
 button:hover {
