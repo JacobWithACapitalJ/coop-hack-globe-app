@@ -14,9 +14,9 @@ exports.getToilets = ({ query }, res, next) => {
 }
 
 exports.getBiggestToilet = ({params}, res, next) => {
-    fetchBiggestToilet(params)
+    return fetchBiggestToilet(params)
         .then(([{ toilets: [toilet] }] )=> {
-        res.status(200).send(toilet[params.propery])
+            res.status(200).send(toilet[params.property])
         })
         .catch(next)
 }

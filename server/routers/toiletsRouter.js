@@ -3,7 +3,7 @@ const toiletsRouter = express.Router();
 const { getToilets, getBiggestToilet } = require('../controllers');
 const { catchBadMethod } = require('../errors')
 
-toiletsRouter.get('/:property', getBiggestToilet)
+toiletsRouter.get('/biggest/:property', getBiggestToilet)
 
 toiletsRouter.route('/')
     .get(getToilets)
