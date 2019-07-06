@@ -3,7 +3,6 @@ const toiletsRouter = require('./toiletsRouter')
 const apiRouter = express.Router();
 const { handleWithCode, catchAll404, handle500 } = require('../errors/')
 
-apiRouter.use(cors())
 apiRouter.use('/toilets', toiletsRouter);
 apiRouter.use('/*', catchAll404)
 apiRouter.use(handleWithCode)
