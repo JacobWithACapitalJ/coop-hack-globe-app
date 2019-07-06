@@ -63,7 +63,7 @@ footer {
   position: fixed;
   display: flex;
   flex-direction: row;
-  height: 115px;
+  height: 85px;
   justify-content: space-around;
   bottom: 0;
 }
