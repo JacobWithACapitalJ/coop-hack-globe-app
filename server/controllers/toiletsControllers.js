@@ -1,8 +1,8 @@
-const { fetchToilets } = require('../models') 
+const { fetchToilets, fetchBiggestToilet } = require('../models') 
 
 
 exports.getToilets = ({ query }, res, next) => {
-    const url = process.env.NODE_ENV === 'production' ? 'https://thunderbox.herokuapp.com/' : '*'
+    // const url = process.env.NODE_ENV === 'production' ? 'https://thunderbox.herokuapp.com/' : '*'
     fetchToilets(query)
         .then((toilets)=> {
             res.set({
@@ -12,3 +12,12 @@ exports.getToilets = ({ query }, res, next) => {
         })
         .catch(next)
 }
+
+exports.getBiggestToilet = ({params}, res, next) => {
+    return fetchBiggestToilet(params)
+        .then((result) => {
+            res.status(200).send(result[0])
+        })
+        .catch(next)
+}
+
