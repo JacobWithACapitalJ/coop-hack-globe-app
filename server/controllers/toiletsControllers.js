@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const { fetchToilets } = require("../models");
 
 exports.getToilets = ({ queries }, res, next) => {
@@ -15,7 +14,6 @@ exports.getToilets = ({ queries }, res, next) => {
     })
     .catch(next);
 };
-=======
 const { fetchToilets, fetchBiggestToilet } = require('../models') 
 
 
@@ -38,5 +36,3 @@ exports.getBiggestToilet = ({params}, res, next) => {
         })
         .catch(next)
 }
-
->>>>>>> f0b4868875affd7f1316c0d32611d11326e55a6e
