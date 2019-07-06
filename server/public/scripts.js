@@ -12,12 +12,14 @@ function getUnisex() {
 
 
 function getAllData() {
+
   if (!sessionStorage.getItem('toilets')) {
   axios
-    .get(window.location.host + "9090/api/toilets")
+    .get("https://thunderbox.herokuapp.com/api/toilets")
     .then(({data: {toilets}}) => {
       sessionStorage.setItem('toilets', JSON.stringify(toilets));
     })
+    .catch(console.log)
   }
 }
 

@@ -1,26 +1,28 @@
-<<<<<<< HEAD
-=======
-import axios from "axios";
->>>>>>> 6393270d88de30762c8406414c720c4241f7fefe
 const uniSexBut = document.getElementById("unisex");
+const accessibleBut = document.getElementById("accessible");
+const changingBut = document.getElementById("changing");
 
 uniSexBut.addEventListener("click", getUnisex);
+accessibleBut.addEventListener("click", getAccessible);
+changingBut = addEventListener("click", getChanging);
 
-<<<<<<< HEAD
 function getUnisex() {
   axios
-    .get("http://localhost:9090/api/toilets")
+    .get("https://thunderbox.herokuapp.com/api/toilets")
     .then(response => console.log(response))
     .catch(console.log);
 }
-=======
-const getUnisex = async () => {
-  const response = await axios.get("http://localhost:9090/api/toilets");
-  console.log(response);
 
-  // return axios
-  //   .get("http://localhost:9090/api/toilets")
-  //   .then(response => console.log(response))
-  //   .catch(console.log("error s"));
-};
->>>>>>> 6393270d88de30762c8406414c720c4241f7fefe
+function getAccessible() {
+  axios
+    .get("https://thunderbox.herokuapp.com/api/toilets")
+    .then(response => console.log(response))
+    .catch(console.log);
+}
+
+function getChanging() {
+  axios
+    .get("https://thunderbox.herokuapp.com/api/toilets")
+    .then(response => console.log(response))
+    .catch(console.log);
+}
