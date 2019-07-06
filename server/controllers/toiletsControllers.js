@@ -15,8 +15,8 @@ exports.getToilets = ({ query }, res, next) => {
 
 exports.getBiggestToilet = ({params}, res, next) => {
     return fetchBiggestToilet(params)
-        .then(([{max}]) => {
-            res.status(200).send(max)
+        .then((result) => {
+            res.status(200).send(result[0])
         })
         .catch(next)
 }
