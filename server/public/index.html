@@ -84,12 +84,12 @@
             var xhr;
             TWEEN.start();
             xhr = new XMLHttpRequest();
-            xhr.open("GET", "data.json", true);
+            xhr.open("GET", "", true);
             xhr.onreadystatechange = function (e) {
               if (xhr.readyState === 4) {
                 if (xhr.status === 200) {
                   let out = [];
-                  var data = JSON.parse(xhr.responseText);
+                  let data = JSON.parse(sessionStorage.getItem('toilets'));
                   data.forEach((location, index) => {
                     out.push(location.latitude, location.longitude, 0.2);
                   });
