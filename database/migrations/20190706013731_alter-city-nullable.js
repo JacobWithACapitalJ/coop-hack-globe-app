@@ -1,12 +1,12 @@
 
 exports.up = function(knex) {
     return knex.schema.alterTable('toilets', table => {
-        table.string('city').alter();
+        table.string('city').nullable().alter();
     }); 
 };
 
 exports.down = function(knex) {
     return knex.schema.alterTable('toilets', table => {
-        table.string('city').notNullable().defaultTo('').alter();
+        table.string('city').defaultTo('').notNullable().alter();
     }); 
 };
