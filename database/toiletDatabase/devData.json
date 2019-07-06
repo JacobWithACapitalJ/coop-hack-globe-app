@@ -1,0 +1,6725 @@
+[
+  {
+    "city": "Clarion",
+    "total_records": 78,
+    "accessible_count": 45,
+    "unisex_count": 57,
+    "changing_table_count": 57,
+    "latitude": 40.04,
+    "longitude": -80
+  },
+  {
+    "city": "Princeton",
+    "total_records": 180,
+    "accessible_count": 104,
+    "unisex_count": 136,
+    "changing_table_count": 136,
+    "latitude": 40.04,
+    "longitude": -75
+  },
+  {
+    "city": "Pietown",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 33.84,
+    "longitude": -109
+  },
+  {
+    "city": "Atlanta",
+    "total_records": 98,
+    "accessible_count": 64,
+    "unisex_count": 71,
+    "changing_table_count": 71,
+    "latitude": 32.65,
+    "longitude": -85
+  },
+  {
+    "city": "Coeur d’Alene",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 46.85,
+    "longitude": -117
+  },
+  {
+    "city": "Kansas City",
+    "total_records": 56,
+    "accessible_count": 35,
+    "unisex_count": 38,
+    "changing_table_count": 38,
+    "latitude": 38.76,
+    "longitude": -95
+  },
+  {
+    "city": "York",
+    "total_records": 47,
+    "accessible_count": 25,
+    "unisex_count": 37,
+    "changing_table_count": 37,
+    "latitude": 52.96,
+    "longitude": -2
+  },
+  {
+    "city": "Sacoro",
+    "total_records": 5,
+    "accessible_count": 5,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 33.84,
+    "longitude": -107
+  },
+  {
+    "city": "Coupeville",
+    "total_records": 371,
+    "accessible_count": 237,
+    "unisex_count": 280,
+    "changing_table_count": 280,
+    "latitude": 46.85,
+    "longitude": -123
+  },
+  {
+    "city": "Courtenay",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 48.31,
+    "longitude": -125
+  },
+  {
+    "city": "Hampton ",
+    "total_records": 52,
+    "accessible_count": 39,
+    "unisex_count": 29,
+    "changing_table_count": 29,
+    "latitude": 36.26,
+    "longitude": -77
+  },
+  {
+    "city": "Big Coppitt Key",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 23.62,
+    "longitude": -82
+  },
+  {
+    "city": "Wrentham",
+    "total_records": 385,
+    "accessible_count": 214,
+    "unisex_count": 284,
+    "changing_table_count": 284,
+    "latitude": 41.35,
+    "longitude": -72
+  },
+  {
+    "city": "Vitry le François ",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 48.31,
+    "longitude": 4
+  },
+  {
+    "city": "Chicago ",
+    "total_records": 273,
+    "accessible_count": 157,
+    "unisex_count": 199,
+    "changing_table_count": 199,
+    "latitude": 41.35,
+    "longitude": -88
+  },
+  {
+    "city": "Madison",
+    "total_records": 78,
+    "accessible_count": 60,
+    "unisex_count": 57,
+    "changing_table_count": 57,
+    "latitude": 42.68,
+    "longitude": -90
+  },
+  {
+    "city": "Lynbrook",
+    "total_records": 294,
+    "accessible_count": 156,
+    "unisex_count": 213,
+    "changing_table_count": 213,
+    "latitude": 40.04,
+    "longitude": -74
+  },
+  {
+    "city": "Corpus Christi",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 26.92,
+    "longitude": -98
+  },
+  {
+    "city": "Boulder",
+    "total_records": 61,
+    "accessible_count": 35,
+    "unisex_count": 49,
+    "changing_table_count": 49,
+    "latitude": 38.76,
+    "longitude": -106
+  },
+  {
+    "city": "Farmers Branch",
+    "total_records": 82,
+    "accessible_count": 58,
+    "unisex_count": 50,
+    "changing_table_count": 50,
+    "latitude": 32.65,
+    "longitude": -97
+  },
+  {
+    "city": "Cascade",
+    "total_records": 36,
+    "accessible_count": 28,
+    "unisex_count": 31,
+    "changing_table_count": 31,
+    "latitude": 41.35,
+    "longitude": -92
+  },
+  {
+    "city": "Bountiful",
+    "total_records": 65,
+    "accessible_count": 48,
+    "unisex_count": 46,
+    "changing_table_count": 46,
+    "latitude": 40.04,
+    "longitude": -112
+  },
+  {
+    "city": "Alamogordo",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 32.65,
+    "longitude": -106
+  },
+  {
+    "city": "University City",
+    "total_records": 114,
+    "accessible_count": 78,
+    "unisex_count": 77,
+    "changing_table_count": 77,
+    "latitude": 37.5,
+    "longitude": -91
+  },
+  {
+    "city": "Grand Rapids",
+    "total_records": 43,
+    "accessible_count": 29,
+    "unisex_count": 32,
+    "changing_table_count": 32,
+    "latitude": 42.68,
+    "longitude": -86
+  },
+  {
+    "city": "Orange Park",
+    "total_records": 42,
+    "accessible_count": 29,
+    "unisex_count": 31,
+    "changing_table_count": 31,
+    "latitude": 29.17,
+    "longitude": -82
+  },
+  {
+    "city": "Fishers",
+    "total_records": 102,
+    "accessible_count": 59,
+    "unisex_count": 75,
+    "changing_table_count": 75,
+    "latitude": 38.76,
+    "longitude": -87
+  },
+  {
+    "city": "Moca",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 18.29,
+    "longitude": -68
+  },
+  {
+    "city": "Bloomington",
+    "total_records": 171,
+    "accessible_count": 125,
+    "unisex_count": 119,
+    "changing_table_count": 119,
+    "latitude": 44.04,
+    "longitude": -94
+  },
+  {
+    "city": "Poland ",
+    "total_records": 55,
+    "accessible_count": 35,
+    "unisex_count": 36,
+    "changing_table_count": 36,
+    "latitude": 42.68,
+    "longitude": -71
+  },
+  {
+    "city": "Mesa",
+    "total_records": 102,
+    "accessible_count": 51,
+    "unisex_count": 91,
+    "changing_table_count": 91,
+    "latitude": 32.65,
+    "longitude": -112
+  },
+  {
+    "city": "Miami",
+    "total_records": 43,
+    "accessible_count": 25,
+    "unisex_count": 27,
+    "changing_table_count": 27,
+    "latitude": 24.71,
+    "longitude": -81
+  },
+  {
+    "city": "Dar es Salaam",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 7.01,
+    "longitude": 39
+  },
+  {
+    "city": "orlando ",
+    "total_records": 75,
+    "accessible_count": 55,
+    "unisex_count": 53,
+    "changing_table_count": 53,
+    "latitude": 28.04,
+    "longitude": -82
+  },
+  {
+    "city": "Savannah",
+    "total_records": 19,
+    "accessible_count": 14,
+    "unisex_count": 12,
+    "changing_table_count": 12,
+    "latitude": 31.48,
+    "longitude": -82
+  },
+  {
+    "city": "Wilmington ",
+    "total_records": 9,
+    "accessible_count": 8,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 33.84,
+    "longitude": -78
+  },
+  {
+    "city": "Bilbao",
+    "total_records": 12,
+    "accessible_count": 4,
+    "unisex_count": 12,
+    "changing_table_count": 12,
+    "latitude": 42.68,
+    "longitude": -3
+  },
+  {
+    "city": "Naples",
+    "total_records": 15,
+    "accessible_count": 10,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": 25.81,
+    "longitude": -82
+  },
+  {
+    "city": "Rochester",
+    "total_records": 81,
+    "accessible_count": 38,
+    "unisex_count": 52,
+    "changing_table_count": 52,
+    "latitude": 42.68,
+    "longitude": -78
+  },
+  {
+    "city": "Topinabee",
+    "total_records": 6,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 45.43,
+    "longitude": -85
+  },
+  {
+    "city": "Austin",
+    "total_records": 110,
+    "accessible_count": 63,
+    "unisex_count": 92,
+    "changing_table_count": 92,
+    "latitude": 29.17,
+    "longitude": -98
+  },
+  {
+    "city": "Saint Simons Island",
+    "total_records": 15,
+    "accessible_count": 11,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": 30.32,
+    "longitude": -82
+  },
+  {
+    "city": "Adelaie",
+    "total_records": 14,
+    "accessible_count": 11,
+    "unisex_count": 13,
+    "changing_table_count": 13,
+    "latitude": -35.04,
+    "longitude": 138
+  },
+  {
+    "city": "Kettle Falls",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 48.31,
+    "longitude": -119
+  },
+  {
+    "city": "Belle Plaine ",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 36.26,
+    "longitude": -98
+  },
+  {
+    "city": "Surprise ",
+    "total_records": 37,
+    "accessible_count": 25,
+    "unisex_count": 27,
+    "changing_table_count": 27,
+    "latitude": 32.65,
+    "longitude": -113
+  },
+  {
+    "city": "Florence",
+    "total_records": 9,
+    "accessible_count": 7,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 42.68,
+    "longitude": -125
+  },
+  {
+    "city": "Folsom",
+    "total_records": 123,
+    "accessible_count": 89,
+    "unisex_count": 84,
+    "changing_table_count": 84,
+    "latitude": 37.5,
+    "longitude": -122
+  },
+  {
+    "city": "San Antonio",
+    "total_records": 47,
+    "accessible_count": 34,
+    "unisex_count": 38,
+    "changing_table_count": 38,
+    "latitude": 29.17,
+    "longitude": -99
+  },
+  {
+    "city": "San Luis Obispo",
+    "total_records": 23,
+    "accessible_count": 19,
+    "unisex_count": 16,
+    "changing_table_count": 16,
+    "latitude": 35.04,
+    "longitude": -121
+  },
+  {
+    "city": "Hagerstown",
+    "total_records": 343,
+    "accessible_count": 165,
+    "unisex_count": 263,
+    "changing_table_count": 263,
+    "latitude": 38.76,
+    "longitude": -78
+  },
+  {
+    "city": "Edmonton",
+    "total_records": 74,
+    "accessible_count": 55,
+    "unisex_count": 24,
+    "changing_table_count": 24,
+    "latitude": 52.96,
+    "longitude": -114
+  },
+  {
+    "city": "Saint-Nicolas",
+    "total_records": 8,
+    "accessible_count": 4,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 45.43,
+    "longitude": -72
+  },
+  {
+    "city": "Palo Alto",
+    "total_records": 61,
+    "accessible_count": 41,
+    "unisex_count": 48,
+    "changing_table_count": 48,
+    "latitude": 36.26,
+    "longitude": -123
+  },
+  {
+    "city": "Falkirk",
+    "total_records": 30,
+    "accessible_count": 19,
+    "unisex_count": 25,
+    "changing_table_count": 25,
+    "latitude": 54.62,
+    "longitude": -4
+  },
+  {
+    "city": "Oak Creek",
+    "total_records": 45,
+    "accessible_count": 34,
+    "unisex_count": 29,
+    "changing_table_count": 29,
+    "latitude": 42.68,
+    "longitude": -88
+  },
+  {
+    "city": "Auburn",
+    "total_records": 20,
+    "accessible_count": 17,
+    "unisex_count": 15,
+    "changing_table_count": 15,
+    "latitude": 41.35,
+    "longitude": -86
+  },
+  {
+    "city": "Ventura ",
+    "total_records": 61,
+    "accessible_count": 41,
+    "unisex_count": 48,
+    "changing_table_count": 48,
+    "latitude": 33.84,
+    "longitude": -120
+  },
+  {
+    "city": "Beloit ",
+    "total_records": 9,
+    "accessible_count": 5,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 41.35,
+    "longitude": -90
+  },
+  {
+    "city": "Little Egg Harbor Township",
+    "total_records": 19,
+    "accessible_count": 6,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": 38.76,
+    "longitude": -75
+  },
+  {
+    "city": "Greenfield",
+    "total_records": 144,
+    "accessible_count": 72,
+    "unisex_count": 95,
+    "changing_table_count": 95,
+    "latitude": 41.35,
+    "longitude": -73
+  },
+  {
+    "city": "Surrey/newton",
+    "total_records": 118,
+    "accessible_count": 87,
+    "unisex_count": 93,
+    "changing_table_count": 93,
+    "latitude": 48.31,
+    "longitude": -123
+  },
+  {
+    "city": "Ennis",
+    "total_records": 7,
+    "accessible_count": 7,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 31.48,
+    "longitude": -97
+  },
+  {
+    "city": "Salem",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": -81
+  },
+  {
+    "city": "Fennville",
+    "total_records": 14,
+    "accessible_count": 11,
+    "unisex_count": 13,
+    "changing_table_count": 13,
+    "latitude": 41.35,
+    "longitude": -87
+  },
+  {
+    "city": "Greater London",
+    "total_records": 112,
+    "accessible_count": 52,
+    "unisex_count": 88,
+    "changing_table_count": 88,
+    "latitude": 51.36,
+    "longitude": -1
+  },
+  {
+    "city": "Ft Collins",
+    "total_records": 58,
+    "accessible_count": 42,
+    "unisex_count": 35,
+    "changing_table_count": 35,
+    "latitude": 40.04,
+    "longitude": -106
+  },
+  {
+    "city": "Manitou Springs",
+    "total_records": 120,
+    "accessible_count": 83,
+    "unisex_count": 84,
+    "changing_table_count": 84,
+    "latitude": 38.76,
+    "longitude": -105
+  },
+  {
+    "city": "Valencia",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 38.76,
+    "longitude": -1
+  },
+  {
+    "city": "Worthing",
+    "total_records": 25,
+    "accessible_count": 15,
+    "unisex_count": 23,
+    "changing_table_count": 23,
+    "latitude": 49.81,
+    "longitude": -1
+  },
+  {
+    "city": "Columbia",
+    "total_records": 128,
+    "accessible_count": 81,
+    "unisex_count": 100,
+    "changing_table_count": 100,
+    "latitude": 38.76,
+    "longitude": -77
+  },
+  {
+    "city": "Los Angeles ",
+    "total_records": 222,
+    "accessible_count": 123,
+    "unisex_count": 150,
+    "changing_table_count": 150,
+    "latitude": 33.84,
+    "longitude": -119
+  },
+  {
+    "city": "Birmingham",
+    "total_records": 17,
+    "accessible_count": 11,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": 32.65,
+    "longitude": -87
+  },
+  {
+    "city": "Moose Jaw",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 49.81,
+    "longitude": -106
+  },
+  {
+    "city": "Visalia",
+    "total_records": 20,
+    "accessible_count": 13,
+    "unisex_count": 14,
+    "changing_table_count": 14,
+    "latitude": 36.26,
+    "longitude": -120
+  },
+  {
+    "city": "Tampa",
+    "total_records": 85,
+    "accessible_count": 65,
+    "unisex_count": 67,
+    "changing_table_count": 67,
+    "latitude": 26.92,
+    "longitude": -83
+  },
+  {
+    "city": "Tampa",
+    "total_records": 49,
+    "accessible_count": 34,
+    "unisex_count": 39,
+    "changing_table_count": 39,
+    "latitude": 28.04,
+    "longitude": -83
+  },
+  {
+    "city": "Frankfurt a.M.",
+    "total_records": 7,
+    "accessible_count": 2,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 49.81,
+    "longitude": 8
+  },
+  {
+    "city": "Ottawa",
+    "total_records": 85,
+    "accessible_count": 62,
+    "unisex_count": 57,
+    "changing_table_count": 57,
+    "latitude": 44.04,
+    "longitude": -76
+  },
+  {
+    "city": "Cleveland ",
+    "total_records": 45,
+    "accessible_count": 30,
+    "unisex_count": 25,
+    "changing_table_count": 25,
+    "latitude": 41.35,
+    "longitude": -82
+  },
+  {
+    "city": "Stillwater",
+    "total_records": 32,
+    "accessible_count": 25,
+    "unisex_count": 26,
+    "changing_table_count": 26,
+    "latitude": 35.04,
+    "longitude": -98
+  },
+  {
+    "city": "Cavendish",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 45.43,
+    "longitude": -64
+  },
+  {
+    "city": "Falmouth",
+    "total_records": 85,
+    "accessible_count": 52,
+    "unisex_count": 49,
+    "changing_table_count": 49,
+    "latitude": 37.5,
+    "longitude": -78
+  },
+  {
+    "city": "New Milford ",
+    "total_records": 62,
+    "accessible_count": 41,
+    "unisex_count": 41,
+    "changing_table_count": 41,
+    "latitude": 41.35,
+    "longitude": -74
+  },
+  {
+    "city": "Plymouth Meeting",
+    "total_records": 73,
+    "accessible_count": 43,
+    "unisex_count": 51,
+    "changing_table_count": 51,
+    "latitude": 40.04,
+    "longitude": -76
+  },
+  {
+    "city": "Charlotte",
+    "total_records": 52,
+    "accessible_count": 34,
+    "unisex_count": 33,
+    "changing_table_count": 33,
+    "latitude": 35.04,
+    "longitude": -81
+  },
+  {
+    "city": "Pittsburgh",
+    "total_records": 33,
+    "accessible_count": 20,
+    "unisex_count": 23,
+    "changing_table_count": 23,
+    "latitude": 40.04,
+    "longitude": -81
+  },
+  {
+    "city": "Eugene",
+    "total_records": 99,
+    "accessible_count": 55,
+    "unisex_count": 69,
+    "changing_table_count": 69,
+    "latitude": 44.04,
+    "longitude": -124
+  },
+  {
+    "city": "Canby",
+    "total_records": 37,
+    "accessible_count": 22,
+    "unisex_count": 29,
+    "changing_table_count": 29,
+    "latitude": 44.04,
+    "longitude": -123
+  },
+  {
+    "city": "Annville",
+    "total_records": 37,
+    "accessible_count": 23,
+    "unisex_count": 25,
+    "changing_table_count": 25,
+    "latitude": 40.04,
+    "longitude": -77
+  },
+  {
+    "city": "Schofield ",
+    "total_records": 9,
+    "accessible_count": 6,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 44.04,
+    "longitude": -90
+  },
+  {
+    "city": "Hingham ",
+    "total_records": 47,
+    "accessible_count": 29,
+    "unisex_count": 28,
+    "changing_table_count": 28,
+    "latitude": 41.35,
+    "longitude": -71
+  },
+  {
+    "city": "Murrieta",
+    "total_records": 220,
+    "accessible_count": 132,
+    "unisex_count": 148,
+    "changing_table_count": 148,
+    "latitude": 32.65,
+    "longitude": -118
+  },
+  {
+    "city": "Mississauga ON  L5P 1B2",
+    "total_records": 175,
+    "accessible_count": 115,
+    "unisex_count": 139,
+    "changing_table_count": 139,
+    "latitude": 42.68,
+    "longitude": -80
+  },
+  {
+    "city": "Benson",
+    "total_records": 123,
+    "accessible_count": 60,
+    "unisex_count": 78,
+    "changing_table_count": 78,
+    "latitude": 35.04,
+    "longitude": -79
+  },
+  {
+    "city": "Fort Worth",
+    "total_records": 63,
+    "accessible_count": 48,
+    "unisex_count": 48,
+    "changing_table_count": 48,
+    "latitude": 32.65,
+    "longitude": -98
+  },
+  {
+    "city": "Logan",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 41.35,
+    "longitude": -112
+  },
+  {
+    "city": "phila",
+    "total_records": 145,
+    "accessible_count": 74,
+    "unisex_count": 111,
+    "changing_table_count": 111,
+    "latitude": 38.76,
+    "longitude": -76
+  },
+  {
+    "city": "Maple Lake",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -95
+  },
+  {
+    "city": "Leonardtown ",
+    "total_records": 14,
+    "accessible_count": 12,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 37.5,
+    "longitude": -77
+  },
+  {
+    "city": "Nelsonville",
+    "total_records": 47,
+    "accessible_count": 36,
+    "unisex_count": 35,
+    "changing_table_count": 35,
+    "latitude": 38.76,
+    "longitude": -83
+  },
+  {
+    "city": "Fairbanks",
+    "total_records": 7,
+    "accessible_count": 4,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 60.05,
+    "longitude": -148
+  },
+  {
+    "city": "Binghamton",
+    "total_records": 20,
+    "accessible_count": 11,
+    "unisex_count": 12,
+    "changing_table_count": 12,
+    "latitude": 41.35,
+    "longitude": -76
+  },
+  {
+    "city": "Halifax",
+    "total_records": 77,
+    "accessible_count": 40,
+    "unisex_count": 57,
+    "changing_table_count": 57,
+    "latitude": 44.04,
+    "longitude": -64
+  },
+  {
+    "city": "Guelph",
+    "total_records": 55,
+    "accessible_count": 42,
+    "unisex_count": 40,
+    "changing_table_count": 40,
+    "latitude": 42.68,
+    "longitude": -81
+  },
+  {
+    "city": "Myrtle Beach",
+    "total_records": 12,
+    "accessible_count": 4,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 32.65,
+    "longitude": -79
+  },
+  {
+    "city": "Redding",
+    "total_records": 9,
+    "accessible_count": 7,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 40.04,
+    "longitude": -123
+  },
+  {
+    "city": "San Diego",
+    "total_records": 14,
+    "accessible_count": 9,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 32.65,
+    "longitude": -117
+  },
+  {
+    "city": "Ephrata",
+    "total_records": 19,
+    "accessible_count": 10,
+    "unisex_count": 11,
+    "changing_table_count": 11,
+    "latitude": 46.85,
+    "longitude": -120
+  },
+  {
+    "city": "Canton ",
+    "total_records": 168,
+    "accessible_count": 104,
+    "unisex_count": 133,
+    "changing_table_count": 133,
+    "latitude": 41.35,
+    "longitude": -84
+  },
+  {
+    "city": "Padova",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": 11
+  },
+  {
+    "city": "Oakland",
+    "total_records": 472,
+    "accessible_count": 323,
+    "unisex_count": 395,
+    "changing_table_count": 395,
+    "latitude": 37.5,
+    "longitude": -123
+  },
+  {
+    "city": "Dothan",
+    "total_records": 5,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 30.32,
+    "longitude": -86
+  },
+  {
+    "city": "Saginaw",
+    "total_records": 26,
+    "accessible_count": 18,
+    "unisex_count": 19,
+    "changing_table_count": 19,
+    "latitude": 42.68,
+    "longitude": -84
+  },
+  {
+    "city": "St. George",
+    "total_records": 8,
+    "accessible_count": 8,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 36.26,
+    "longitude": -114
+  },
+  {
+    "city": "Huntington Beach",
+    "total_records": 31,
+    "accessible_count": 20,
+    "unisex_count": 27,
+    "changing_table_count": 27,
+    "latitude": 32.65,
+    "longitude": -119
+  },
+  {
+    "city": "Asheville ",
+    "total_records": 72,
+    "accessible_count": 44,
+    "unisex_count": 60,
+    "changing_table_count": 60,
+    "latitude": 35.04,
+    "longitude": -83
+  },
+  {
+    "city": "Pointe-Claire",
+    "total_records": 65,
+    "accessible_count": 33,
+    "unisex_count": 48,
+    "changing_table_count": 48,
+    "latitude": 45.43,
+    "longitude": -74
+  },
+  {
+    "city": "Preston",
+    "total_records": 40,
+    "accessible_count": 24,
+    "unisex_count": 32,
+    "changing_table_count": 32,
+    "latitude": 52.96,
+    "longitude": -3
+  },
+  {
+    "city": "Ringsted",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 54.62,
+    "longitude": 11
+  },
+  {
+    "city": "Harlow",
+    "total_records": 29,
+    "accessible_count": 15,
+    "unisex_count": 21,
+    "changing_table_count": 21,
+    "latitude": 51.36,
+    "longitude": 0
+  },
+  {
+    "city": "Madras",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 44.04,
+    "longitude": -122
+  },
+  {
+    "city": "Düsseldorf ",
+    "total_records": 4,
+    "accessible_count": 1,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 49.81,
+    "longitude": 6
+  },
+  {
+    "city": "Appomattox",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 36.26,
+    "longitude": -79
+  },
+  {
+    "city": "Akron ",
+    "total_records": 36,
+    "accessible_count": 29,
+    "unisex_count": 26,
+    "changing_table_count": 26,
+    "latitude": 40.04,
+    "longitude": -82
+  },
+  {
+    "city": "Bolingbrook",
+    "total_records": 53,
+    "accessible_count": 33,
+    "unisex_count": 39,
+    "changing_table_count": 39,
+    "latitude": 41.35,
+    "longitude": -89
+  },
+  {
+    "city": "Duvall",
+    "total_records": 5,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 46.85,
+    "longitude": -122
+  },
+  {
+    "city": "Burnside",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": -85
+  },
+  {
+    "city": "New Hartford",
+    "total_records": 8,
+    "accessible_count": 5,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 42.68,
+    "longitude": -76
+  },
+  {
+    "city": "Two Harbors ",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 46.85,
+    "longitude": -92
+  },
+  {
+    "city": "Albuquerque",
+    "total_records": 47,
+    "accessible_count": 33,
+    "unisex_count": 39,
+    "changing_table_count": 39,
+    "latitude": 35.04,
+    "longitude": -107
+  },
+  {
+    "city": "Amarillo",
+    "total_records": 5,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 35.04,
+    "longitude": -102
+  },
+  {
+    "city": "Vaughn",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 33.84,
+    "longitude": -106
+  },
+  {
+    "city": "Cincinnati ",
+    "total_records": 45,
+    "accessible_count": 33,
+    "unisex_count": 35,
+    "changing_table_count": 35,
+    "latitude": 38.76,
+    "longitude": -85
+  },
+  {
+    "city": "Nashville",
+    "total_records": 42,
+    "accessible_count": 27,
+    "unisex_count": 31,
+    "changing_table_count": 31,
+    "latitude": 35.04,
+    "longitude": -87
+  },
+  {
+    "city": "Pensacola Beach",
+    "total_records": 41,
+    "accessible_count": 27,
+    "unisex_count": 23,
+    "changing_table_count": 23,
+    "latitude": 30.32,
+    "longitude": -88
+  },
+  {
+    "city": "Berlin ",
+    "total_records": 8,
+    "accessible_count": 5,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 37.5,
+    "longitude": -76
+  },
+  {
+    "city": "Campbell",
+    "total_records": 9,
+    "accessible_count": 7,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 41.35,
+    "longitude": -78
+  },
+  {
+    "city": "Tulare",
+    "total_records": 14,
+    "accessible_count": 11,
+    "unisex_count": 12,
+    "changing_table_count": 12,
+    "latitude": 35.04,
+    "longitude": -120
+  },
+  {
+    "city": "Marietta",
+    "total_records": 8,
+    "accessible_count": 4,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 38.76,
+    "longitude": -82
+  },
+  {
+    "city": "Derby",
+    "total_records": 36,
+    "accessible_count": 22,
+    "unisex_count": 30,
+    "changing_table_count": 30,
+    "latitude": 51.36,
+    "longitude": -2
+  },
+  {
+    "city": "Portland",
+    "total_records": 280,
+    "accessible_count": 163,
+    "unisex_count": 226,
+    "changing_table_count": 226,
+    "latitude": 45.43,
+    "longitude": -123
+  },
+  {
+    "city": "Abilene",
+    "total_records": 3,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 31.48,
+    "longitude": -100
+  },
+  {
+    "city": "Aberdeen",
+    "total_records": 12,
+    "accessible_count": 8,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 56.35,
+    "longitude": -3
+  },
+  {
+    "city": "Sunbury",
+    "total_records": 21,
+    "accessible_count": 15,
+    "unisex_count": 17,
+    "changing_table_count": 17,
+    "latitude": 40.04,
+    "longitude": -83
+  },
+  {
+    "city": "San Jose",
+    "total_records": 80,
+    "accessible_count": 55,
+    "unisex_count": 54,
+    "changing_table_count": 54,
+    "latitude": 36.26,
+    "longitude": -122
+  },
+  {
+    "city": "Charleston",
+    "total_records": 21,
+    "accessible_count": 6,
+    "unisex_count": 17,
+    "changing_table_count": 17,
+    "latitude": 32.65,
+    "longitude": -80
+  },
+  {
+    "city": "Corunna",
+    "total_records": 24,
+    "accessible_count": 16,
+    "unisex_count": 14,
+    "changing_table_count": 14,
+    "latitude": 42.68,
+    "longitude": -85
+  },
+  {
+    "city": "Preble",
+    "total_records": 27,
+    "accessible_count": 17,
+    "unisex_count": 15,
+    "changing_table_count": 15,
+    "latitude": 42.68,
+    "longitude": -77
+  },
+  {
+    "city": "Hannibal",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 38.76,
+    "longitude": -92
+  },
+  {
+    "city": "Cedar City",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 37.5,
+    "longitude": -114
+  },
+  {
+    "city": "Burlington",
+    "total_records": 73,
+    "accessible_count": 39,
+    "unisex_count": 50,
+    "changing_table_count": 50,
+    "latitude": 44.04,
+    "longitude": -74
+  },
+  {
+    "city": "Marietta",
+    "total_records": 54,
+    "accessible_count": 41,
+    "unisex_count": 32,
+    "changing_table_count": 32,
+    "latitude": 33.84,
+    "longitude": -85
+  },
+  {
+    "city": "Paris",
+    "total_records": 15,
+    "accessible_count": 7,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": 48.31,
+    "longitude": 2
+  },
+  {
+    "city": "Durham",
+    "total_records": 9,
+    "accessible_count": 7,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 54.62,
+    "longitude": -2
+  },
+  {
+    "city": "Topeka",
+    "total_records": 8,
+    "accessible_count": 3,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 38.76,
+    "longitude": -96
+  },
+  {
+    "city": "Richmond",
+    "total_records": 24,
+    "accessible_count": 13,
+    "unisex_count": 21,
+    "changing_table_count": 21,
+    "latitude": 44.04,
+    "longitude": -73
+  },
+  {
+    "city": "Madisonville",
+    "total_records": 15,
+    "accessible_count": 12,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 35.04,
+    "longitude": -85
+  },
+  {
+    "city": "Missoula",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 46.85,
+    "longitude": -114
+  },
+  {
+    "city": "Missoula",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 46.85,
+    "longitude": -115
+  },
+  {
+    "city": "Cassville",
+    "total_records": 22,
+    "accessible_count": 15,
+    "unisex_count": 16,
+    "changing_table_count": 16,
+    "latitude": 36.26,
+    "longitude": -94
+  },
+  {
+    "city": "Berriedale",
+    "total_records": 13,
+    "accessible_count": 9,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": -44.04,
+    "longitude": 147
+  },
+  {
+    "city": "Greenville ",
+    "total_records": 15,
+    "accessible_count": 8,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 33.84,
+    "longitude": -83
+  },
+  {
+    "city": "Macon ",
+    "total_records": 10,
+    "accessible_count": 7,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 32.65,
+    "longitude": -84
+  },
+  {
+    "city": "Lille",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 49.81,
+    "longitude": 3
+  },
+  {
+    "city": "Shelby",
+    "total_records": 12,
+    "accessible_count": 7,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 35.04,
+    "longitude": -82
+  },
+  {
+    "city": "Broadstairs",
+    "total_records": 11,
+    "accessible_count": 10,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 51.36,
+    "longitude": 1
+  },
+  {
+    "city": "Berlin",
+    "total_records": 36,
+    "accessible_count": 16,
+    "unisex_count": 27,
+    "changing_table_count": 27,
+    "latitude": 51.36,
+    "longitude": 13
+  },
+  {
+    "city": "Årsta",
+    "total_records": 19,
+    "accessible_count": 7,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": 58.15,
+    "longitude": 18
+  },
+  {
+    "city": "Jackson",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 35.04,
+    "longitude": -89
+  },
+  {
+    "city": "Longview",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 31.48,
+    "longitude": -95
+  },
+  {
+    "city": "Longview",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 32.65,
+    "longitude": -103
+  },
+  {
+    "city": "Port Kembla",
+    "total_records": 6,
+    "accessible_count": 3,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": -35.04,
+    "longitude": 150
+  },
+  {
+    "city": "Dahlonega",
+    "total_records": 63,
+    "accessible_count": 33,
+    "unisex_count": 36,
+    "changing_table_count": 36,
+    "latitude": 33.84,
+    "longitude": -84
+  },
+  {
+    "city": "Kelowna",
+    "total_records": 21,
+    "accessible_count": 14,
+    "unisex_count": 18,
+    "changing_table_count": 18,
+    "latitude": 49.81,
+    "longitude": -120
+  },
+  {
+    "city": "New Orleans",
+    "total_records": 49,
+    "accessible_count": 23,
+    "unisex_count": 33,
+    "changing_table_count": 33,
+    "latitude": 29.17,
+    "longitude": -91
+  },
+  {
+    "city": "Hamburg ",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 52.96,
+    "longitude": 9
+  },
+  {
+    "city": "Cuijk",
+    "total_records": 8,
+    "accessible_count": 4,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 51.36,
+    "longitude": 5
+  },
+  {
+    "city": "Emu Plains",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -33.84,
+    "longitude": 150
+  },
+  {
+    "city": "Flagstaff",
+    "total_records": 14,
+    "accessible_count": 10,
+    "unisex_count": 11,
+    "changing_table_count": 11,
+    "latitude": 35.04,
+    "longitude": -112
+  },
+  {
+    "city": "Honolulu",
+    "total_records": 25,
+    "accessible_count": 21,
+    "unisex_count": 17,
+    "changing_table_count": 17,
+    "latitude": 20.4,
+    "longitude": -158
+  },
+  {
+    "city": "Greensboro",
+    "total_records": 47,
+    "accessible_count": 24,
+    "unisex_count": 34,
+    "changing_table_count": 34,
+    "latitude": 35.04,
+    "longitude": -80
+  },
+  {
+    "city": "Buxton",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 35.04,
+    "longitude": -76
+  },
+  {
+    "city": "Erie",
+    "total_records": 6,
+    "accessible_count": 6,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 41.35,
+    "longitude": -81
+  },
+  {
+    "city": "La Crosse",
+    "total_records": 12,
+    "accessible_count": 5,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 42.68,
+    "longitude": -92
+  },
+  {
+    "city": "Bedford ",
+    "total_records": 54,
+    "accessible_count": 39,
+    "unisex_count": 38,
+    "changing_table_count": 38,
+    "latitude": 42.68,
+    "longitude": -72
+  },
+  {
+    "city": "Humble",
+    "total_records": 112,
+    "accessible_count": 67,
+    "unisex_count": 65,
+    "changing_table_count": 65,
+    "latitude": 29.17,
+    "longitude": -96
+  },
+  {
+    "city": "Gainesville",
+    "total_records": 46,
+    "accessible_count": 28,
+    "unisex_count": 34,
+    "changing_table_count": 34,
+    "latitude": 29.17,
+    "longitude": -83
+  },
+  {
+    "city": "Clifton",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 38.76,
+    "longitude": -109
+  },
+  {
+    "city": "Reykjavik ",
+    "total_records": 5,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 60.05,
+    "longitude": -22
+  },
+  {
+    "city": "Billings",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": -109
+  },
+  {
+    "city": "Mount Barker ",
+    "total_records": 5,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": -36.26,
+    "longitude": 138
+  },
+  {
+    "city": "Monteith",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -36.26,
+    "longitude": 139
+  },
+  {
+    "city": "Konin",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 51.36,
+    "longitude": 18
+  },
+  {
+    "city": "Cedar Falls",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 41.35,
+    "longitude": -93
+  },
+  {
+    "city": "Hayti",
+    "total_records": 13,
+    "accessible_count": 9,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 35.04,
+    "longitude": -90
+  },
+  {
+    "city": "Damariscotta ",
+    "total_records": 5,
+    "accessible_count": 3,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 42.68,
+    "longitude": -70
+  },
+  {
+    "city": "Galveston",
+    "total_records": 10,
+    "accessible_count": 7,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 29.17,
+    "longitude": -95
+  },
+  {
+    "city": "Glasgow City",
+    "total_records": 25,
+    "accessible_count": 16,
+    "unisex_count": 19,
+    "changing_table_count": 19,
+    "latitude": 54.62,
+    "longitude": -5
+  },
+  {
+    "city": "Lethbridge",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 48.31,
+    "longitude": -113
+  },
+  {
+    "city": "Lincoln ",
+    "total_records": 15,
+    "accessible_count": 10,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 52.96,
+    "longitude": -1
+  },
+  {
+    "city": "Brookfield",
+    "total_records": 38,
+    "accessible_count": 29,
+    "unisex_count": 30,
+    "changing_table_count": 30,
+    "latitude": 42.68,
+    "longitude": -89
+  },
+  {
+    "city": "Unadilla",
+    "total_records": 11,
+    "accessible_count": 7,
+    "unisex_count": 11,
+    "changing_table_count": 11,
+    "latitude": 31.48,
+    "longitude": -84
+  },
+  {
+    "city": "Winnipeg",
+    "total_records": 27,
+    "accessible_count": 18,
+    "unisex_count": 20,
+    "changing_table_count": 20,
+    "latitude": 49.81,
+    "longitude": -98
+  },
+  {
+    "city": "Maryville ",
+    "total_records": 32,
+    "accessible_count": 21,
+    "unisex_count": 15,
+    "changing_table_count": 15,
+    "latitude": 35.04,
+    "longitude": -84
+  },
+  {
+    "city": "Moline",
+    "total_records": 8,
+    "accessible_count": 4,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 41.35,
+    "longitude": -91
+  },
+  {
+    "city": "New Albany",
+    "total_records": 33,
+    "accessible_count": 22,
+    "unisex_count": 22,
+    "changing_table_count": 22,
+    "latitude": 37.5,
+    "longitude": -86
+  },
+  {
+    "city": "Custer",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 42.68,
+    "longitude": -104
+  },
+  {
+    "city": "Mobile",
+    "total_records": 14,
+    "accessible_count": 6,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 30.32,
+    "longitude": -89
+  },
+  {
+    "city": "Hulett",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -105
+  },
+  {
+    "city": "Öhringen",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 48.31,
+    "longitude": 9
+  },
+  {
+    "city": "Traralgon",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -38.76,
+    "longitude": 146
+  },
+  {
+    "city": "Ukiah ",
+    "total_records": 5,
+    "accessible_count": 5,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 38.76,
+    "longitude": -124
+  },
+  {
+    "city": "Harrisonburg",
+    "total_records": 75,
+    "accessible_count": 54,
+    "unisex_count": 68,
+    "changing_table_count": 68,
+    "latitude": 37.5,
+    "longitude": -79
+  },
+  {
+    "city": "Juneau",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 58.15,
+    "longitude": -135
+  },
+  {
+    "city": "Lead",
+    "total_records": 8,
+    "accessible_count": 8,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 44.04,
+    "longitude": -104
+  },
+  {
+    "city": "Fredericton ",
+    "total_records": 7,
+    "accessible_count": 3,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 45.43,
+    "longitude": -67
+  },
+  {
+    "city": "Marshfield ",
+    "total_records": 9,
+    "accessible_count": 9,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 44.04,
+    "longitude": -91
+  },
+  {
+    "city": "Virginia Beach",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 36.26,
+    "longitude": -76
+  },
+  {
+    "city": "Alton",
+    "total_records": 10,
+    "accessible_count": 6,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 38.76,
+    "longitude": -91
+  },
+  {
+    "city": "Sarnia",
+    "total_records": 6,
+    "accessible_count": 4,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 42.68,
+    "longitude": -83
+  },
+  {
+    "city": "Martensdale ",
+    "total_records": 29,
+    "accessible_count": 17,
+    "unisex_count": 22,
+    "changing_table_count": 22,
+    "latitude": 41.35,
+    "longitude": -94
+  },
+  {
+    "city": "Big Bear",
+    "total_records": 5,
+    "accessible_count": 4,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 33.84,
+    "longitude": -117
+  },
+  {
+    "city": "Auburn",
+    "total_records": 25,
+    "accessible_count": 22,
+    "unisex_count": 20,
+    "changing_table_count": 20,
+    "latitude": 38.76,
+    "longitude": -122
+  },
+  {
+    "city": "Lincoln",
+    "total_records": 48,
+    "accessible_count": 35,
+    "unisex_count": 32,
+    "changing_table_count": 32,
+    "latitude": 40.04,
+    "longitude": -97
+  },
+  {
+    "city": "Madrid",
+    "total_records": 17,
+    "accessible_count": 10,
+    "unisex_count": 13,
+    "changing_table_count": 13,
+    "latitude": 40.04,
+    "longitude": -4
+  },
+  {
+    "city": "Texarkana ",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 32.65,
+    "longitude": -95
+  },
+  {
+    "city": "Springfield",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 42.68,
+    "longitude": -123
+  },
+  {
+    "city": "Hazelhurst",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 45.43,
+    "longitude": -90
+  },
+  {
+    "city": "Leamington",
+    "total_records": 8,
+    "accessible_count": 6,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 41.35,
+    "longitude": -83
+  },
+  {
+    "city": "Jupiter",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 26.92,
+    "longitude": -81
+  },
+  {
+    "city": "Monmouth",
+    "total_records": 39,
+    "accessible_count": 27,
+    "unisex_count": 23,
+    "changing_table_count": 23,
+    "latitude": 51.36,
+    "longitude": -3
+  },
+  {
+    "city": "Calgary",
+    "total_records": 27,
+    "accessible_count": 8,
+    "unisex_count": 20,
+    "changing_table_count": 20,
+    "latitude": 49.81,
+    "longitude": -115
+  },
+  {
+    "city": "Malmo",
+    "total_records": 13,
+    "accessible_count": 11,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 54.62,
+    "longitude": 12
+  },
+  {
+    "city": "Anchorage",
+    "total_records": 25,
+    "accessible_count": 21,
+    "unisex_count": 16,
+    "changing_table_count": 16,
+    "latitude": 60.05,
+    "longitude": -150
+  },
+  {
+    "city": "North Vancouver",
+    "total_records": 110,
+    "accessible_count": 70,
+    "unisex_count": 93,
+    "changing_table_count": 93,
+    "latitude": 48.31,
+    "longitude": -124
+  },
+  {
+    "city": "Las Vegas",
+    "total_records": 193,
+    "accessible_count": 18,
+    "unisex_count": 113,
+    "changing_table_count": 113,
+    "latitude": 35.04,
+    "longitude": -116
+  },
+  {
+    "city": "Augusta",
+    "total_records": 8,
+    "accessible_count": 4,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 32.65,
+    "longitude": -83
+  },
+  {
+    "city": "Maribor ",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": 15
+  },
+  {
+    "city": "De Pere",
+    "total_records": 15,
+    "accessible_count": 12,
+    "unisex_count": 13,
+    "changing_table_count": 13,
+    "latitude": 44.04,
+    "longitude": -89
+  },
+  {
+    "city": "Virden",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 49.81,
+    "longitude": -101
+  },
+  {
+    "city": "Modesto",
+    "total_records": 19,
+    "accessible_count": 11,
+    "unisex_count": 12,
+    "changing_table_count": 12,
+    "latitude": 37.5,
+    "longitude": -121
+  },
+  {
+    "city": "Bingham",
+    "total_records": 6,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 44.04,
+    "longitude": -70
+  },
+  {
+    "city": "Uppsala",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 58.15,
+    "longitude": 17
+  },
+  {
+    "city": "Columbus",
+    "total_records": 39,
+    "accessible_count": 21,
+    "unisex_count": 34,
+    "changing_table_count": 34,
+    "latitude": 38.76,
+    "longitude": -84
+  },
+  {
+    "city": "Feilding",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -41.35,
+    "longitude": 175
+  },
+  {
+    "city": "Kuwait ",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 25.81,
+    "longitude": 51
+  },
+  {
+    "city": "Wabash ",
+    "total_records": 25,
+    "accessible_count": 20,
+    "unisex_count": 21,
+    "changing_table_count": 21,
+    "latitude": 40.04,
+    "longitude": -86
+  },
+  {
+    "city": "Wenatchee",
+    "total_records": 13,
+    "accessible_count": 6,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 46.85,
+    "longitude": -121
+  },
+  {
+    "city": "Prescott Valley",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 33.84,
+    "longitude": -113
+  },
+  {
+    "city": "Chapin ",
+    "total_records": 12,
+    "accessible_count": 9,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 33.84,
+    "longitude": -82
+  },
+  {
+    "city": "Melbourne",
+    "total_records": 11,
+    "accessible_count": 8,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": -38.76,
+    "longitude": 145
+  },
+  {
+    "city": "Traverse City ",
+    "total_records": 16,
+    "accessible_count": 15,
+    "unisex_count": 16,
+    "changing_table_count": 16,
+    "latitude": 44.04,
+    "longitude": -86
+  },
+  {
+    "city": "Lafayette",
+    "total_records": 27,
+    "accessible_count": 14,
+    "unisex_count": 20,
+    "changing_table_count": 20,
+    "latitude": 40.04,
+    "longitude": -87
+  },
+  {
+    "city": "McLean",
+    "total_records": 10,
+    "accessible_count": 8,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 40.04,
+    "longitude": -90
+  },
+  {
+    "city": "Perth",
+    "total_records": 7,
+    "accessible_count": 5,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -32.65,
+    "longitude": 115
+  },
+  {
+    "city": "Wilmington ",
+    "total_records": 35,
+    "accessible_count": 17,
+    "unisex_count": 30,
+    "changing_table_count": 30,
+    "latitude": 40.04,
+    "longitude": -89
+  },
+  {
+    "city": "Chino",
+    "total_records": 89,
+    "accessible_count": 61,
+    "unisex_count": 71,
+    "changing_table_count": 71,
+    "latitude": 33.84,
+    "longitude": -118
+  },
+  {
+    "city": "Grenville",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 45.43,
+    "longitude": -75
+  },
+  {
+    "city": "Corny point",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -35.04,
+    "longitude": 137
+  },
+  {
+    "city": "Casper",
+    "total_records": 6,
+    "accessible_count": 6,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 42.68,
+    "longitude": -107
+  },
+  {
+    "city": "Red Deer",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 51.36,
+    "longitude": -114
+  },
+  {
+    "city": "Lupton",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -85
+  },
+  {
+    "city": "Viseu",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 40.04,
+    "longitude": -8
+  },
+  {
+    "city": "Arlington",
+    "total_records": 5,
+    "accessible_count": 5,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 45.43,
+    "longitude": -121
+  },
+  {
+    "city": "North Platte",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 40.04,
+    "longitude": -101
+  },
+  {
+    "city": "Paducah",
+    "total_records": 8,
+    "accessible_count": 7,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 36.26,
+    "longitude": -89
+  },
+  {
+    "city": "Santa Fe",
+    "total_records": 10,
+    "accessible_count": 7,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 35.04,
+    "longitude": -106
+  },
+  {
+    "city": "Rogers",
+    "total_records": 12,
+    "accessible_count": 8,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 36.26,
+    "longitude": -95
+  },
+  {
+    "city": "Springfield",
+    "total_records": 55,
+    "accessible_count": 36,
+    "unisex_count": 42,
+    "changing_table_count": 42,
+    "latitude": 42.68,
+    "longitude": -73
+  },
+  {
+    "city": "Lubbock",
+    "total_records": 67,
+    "accessible_count": 64,
+    "unisex_count": 64,
+    "changing_table_count": 64,
+    "latitude": 32.65,
+    "longitude": -102
+  },
+  {
+    "city": "Florence ",
+    "total_records": 16,
+    "accessible_count": 7,
+    "unisex_count": 14,
+    "changing_table_count": 14,
+    "latitude": 33.84,
+    "longitude": -88
+  },
+  {
+    "city": "Phillips",
+    "total_records": 10,
+    "accessible_count": 4,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 45.43,
+    "longitude": -91
+  },
+  {
+    "city": "Bowling Green",
+    "total_records": 7,
+    "accessible_count": 5,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 36.26,
+    "longitude": -87
+  },
+  {
+    "city": "Dryden",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 48.31,
+    "longitude": -93
+  },
+  {
+    "city": "Boise",
+    "total_records": 41,
+    "accessible_count": 29,
+    "unisex_count": 32,
+    "changing_table_count": 32,
+    "latitude": 42.68,
+    "longitude": -117
+  },
+  {
+    "city": "Troy",
+    "total_records": 55,
+    "accessible_count": 28,
+    "unisex_count": 46,
+    "changing_table_count": 46,
+    "latitude": 42.68,
+    "longitude": -74
+  },
+  {
+    "city": "Medicine Hat",
+    "total_records": 5,
+    "accessible_count": 3,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 49.81,
+    "longitude": -111
+  },
+  {
+    "city": "Brunswick, Melbourne ",
+    "total_records": 38,
+    "accessible_count": 27,
+    "unisex_count": 31,
+    "changing_table_count": 31,
+    "latitude": -38.76,
+    "longitude": 144
+  },
+  {
+    "city": "Wallasey",
+    "total_records": 6,
+    "accessible_count": 3,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 52.96,
+    "longitude": -4
+  },
+  {
+    "city": "Evansville",
+    "total_records": 19,
+    "accessible_count": 12,
+    "unisex_count": 14,
+    "changing_table_count": 14,
+    "latitude": 37.5,
+    "longitude": -88
+  },
+  {
+    "city": "Jasper",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 37.5,
+    "longitude": -87
+  },
+  {
+    "city": "Dorchester ",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 49.81,
+    "longitude": -3
+  },
+  {
+    "city": "Sioux City IA ",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 41.35,
+    "longitude": -97
+  },
+  {
+    "city": "Pasco",
+    "total_records": 9,
+    "accessible_count": 6,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 45.43,
+    "longitude": -120
+  },
+  {
+    "city": "Meadowbrook",
+    "total_records": 16,
+    "accessible_count": 12,
+    "unisex_count": 11,
+    "changing_table_count": 11,
+    "latitude": -28.04,
+    "longitude": 153
+  },
+  {
+    "city": "Ithaca",
+    "total_records": 50,
+    "accessible_count": 25,
+    "unisex_count": 30,
+    "changing_table_count": 30,
+    "latitude": 41.35,
+    "longitude": -77
+  },
+  {
+    "city": "North East ",
+    "total_records": 14,
+    "accessible_count": 7,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 41.35,
+    "longitude": -80
+  },
+  {
+    "city": "Clarksville ",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 36.26,
+    "longitude": -88
+  },
+  {
+    "city": "Colonial Heights",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 36.26,
+    "longitude": -78
+  },
+  {
+    "city": "Tillamook",
+    "total_records": 17,
+    "accessible_count": 10,
+    "unisex_count": 13,
+    "changing_table_count": 13,
+    "latitude": 45.43,
+    "longitude": -124
+  },
+  {
+    "city": "Five Islands",
+    "total_records": 7,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 45.43,
+    "longitude": -65
+  },
+  {
+    "city": "La Grande",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -119
+  },
+  {
+    "city": "Pocatello",
+    "total_records": 8,
+    "accessible_count": 5,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 42.68,
+    "longitude": -113
+  },
+  {
+    "city": "Cuttack",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 20.4,
+    "longitude": 85
+  },
+  {
+    "city": "Austin",
+    "total_records": 18,
+    "accessible_count": 17,
+    "unisex_count": 13,
+    "changing_table_count": 13,
+    "latitude": 30.32,
+    "longitude": -98
+  },
+  {
+    "city": "Koloa",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 21.47,
+    "longitude": -160
+  },
+  {
+    "city": "Waynesburg",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 38.76,
+    "longitude": -81
+  },
+  {
+    "city": "Charlotte",
+    "total_records": 5,
+    "accessible_count": 4,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 41.35,
+    "longitude": -85
+  },
+  {
+    "city": "Pueblo",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 37.5,
+    "longitude": -105
+  },
+  {
+    "city": "Morgantown",
+    "total_records": 26,
+    "accessible_count": 23,
+    "unisex_count": 24,
+    "changing_table_count": 24,
+    "latitude": 38.76,
+    "longitude": -80
+  },
+  {
+    "city": "Björröd-Landvetter",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 56.35,
+    "longitude": 12
+  },
+  {
+    "city": "Malmö ",
+    "total_records": 8,
+    "accessible_count": 2,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 56.35,
+    "longitude": 11
+  },
+  {
+    "city": "Sant Andreu de la Barca",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 41.35,
+    "longitude": 1
+  },
+  {
+    "city": "Baton Rouge ",
+    "total_records": 17,
+    "accessible_count": 8,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 30.32,
+    "longitude": -92
+  },
+  {
+    "city": "Lowndesboro",
+    "total_records": 6,
+    "accessible_count": 3,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 31.48,
+    "longitude": -87
+  },
+  {
+    "city": "Staunton",
+    "total_records": 10,
+    "accessible_count": 7,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 37.5,
+    "longitude": -80
+  },
+  {
+    "city": "Malmö",
+    "total_records": 8,
+    "accessible_count": 3,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 54.62,
+    "longitude": 13
+  },
+  {
+    "city": "Burley",
+    "total_records": 32,
+    "accessible_count": 22,
+    "unisex_count": 15,
+    "changing_table_count": 15,
+    "latitude": 49.81,
+    "longitude": -2
+  },
+  {
+    "city": "Dania Reach",
+    "total_records": 25,
+    "accessible_count": 18,
+    "unisex_count": 19,
+    "changing_table_count": 19,
+    "latitude": 25.81,
+    "longitude": -81
+  },
+  {
+    "city": "Spokane",
+    "total_records": 21,
+    "accessible_count": 18,
+    "unisex_count": 11,
+    "changing_table_count": 11,
+    "latitude": 46.85,
+    "longitude": -118
+  },
+  {
+    "city": "Grafton",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 48.31,
+    "longitude": -98
+  },
+  {
+    "city": "Doniphan",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 40.04,
+    "longitude": -99
+  },
+  {
+    "city": "Findlay",
+    "total_records": 23,
+    "accessible_count": 17,
+    "unisex_count": 15,
+    "changing_table_count": 15,
+    "latitude": 40.04,
+    "longitude": -84
+  },
+  {
+    "city": "Fayetteville ",
+    "total_records": 29,
+    "accessible_count": 23,
+    "unisex_count": 17,
+    "changing_table_count": 17,
+    "latitude": 35.04,
+    "longitude": -95
+  },
+  {
+    "city": "Johannesburg",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -26.92,
+    "longitude": 28
+  },
+  {
+    "city": "Alamosa ",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 36.26,
+    "longitude": -106
+  },
+  {
+    "city": "Waldport",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 44.04,
+    "longitude": -125
+  },
+  {
+    "city": "Duluth ",
+    "total_records": 27,
+    "accessible_count": 15,
+    "unisex_count": 18,
+    "changing_table_count": 18,
+    "latitude": 45.43,
+    "longitude": -93
+  },
+  {
+    "city": "Belo Horizonte",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -20.4,
+    "longitude": -44
+  },
+  {
+    "city": "Nangwarry ",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -38.76,
+    "longitude": 140
+  },
+  {
+    "city": "Riverhead",
+    "total_records": 42,
+    "accessible_count": 29,
+    "unisex_count": 30,
+    "changing_table_count": 30,
+    "latitude": 40.04,
+    "longitude": -73
+  },
+  {
+    "city": "Inwood",
+    "total_records": 10,
+    "accessible_count": 8,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 38.76,
+    "longitude": -79
+  },
+  {
+    "city": "Columbia",
+    "total_records": 45,
+    "accessible_count": 34,
+    "unisex_count": 30,
+    "changing_table_count": 30,
+    "latitude": 38.76,
+    "longitude": -93
+  },
+  {
+    "city": "Metter ",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 31.48,
+    "longitude": -83
+  },
+  {
+    "city": "Chattanooga ",
+    "total_records": 7,
+    "accessible_count": 2,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 33.84,
+    "longitude": -86
+  },
+  {
+    "city": "El Paso",
+    "total_records": 8,
+    "accessible_count": 6,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 31.48,
+    "longitude": -107
+  },
+  {
+    "city": "Kiel ",
+    "total_records": 5,
+    "accessible_count": 3,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 52.96,
+    "longitude": 10
+  },
+  {
+    "city": "Wichita",
+    "total_records": 15,
+    "accessible_count": 11,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 37.5,
+    "longitude": -98
+  },
+  {
+    "city": "Klamath Falls",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 41.35,
+    "longitude": -122
+  },
+  {
+    "city": "Saskatoon",
+    "total_records": 18,
+    "accessible_count": 12,
+    "unisex_count": 16,
+    "changing_table_count": 16,
+    "latitude": 51.36,
+    "longitude": -107
+  },
+  {
+    "city": "Dickson",
+    "total_records": 6,
+    "accessible_count": 3,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 35.04,
+    "longitude": -88
+  },
+  {
+    "city": "Decatur",
+    "total_records": 19,
+    "accessible_count": 15,
+    "unisex_count": 19,
+    "changing_table_count": 19,
+    "latitude": 38.76,
+    "longitude": -89
+  },
+  {
+    "city": "Olds",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 51.36,
+    "longitude": -115
+  },
+  {
+    "city": "Fernley",
+    "total_records": 29,
+    "accessible_count": 21,
+    "unisex_count": 25,
+    "changing_table_count": 25,
+    "latitude": 38.76,
+    "longitude": -120
+  },
+  {
+    "city": "Kerikeri",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": -36.26,
+    "longitude": 173
+  },
+  {
+    "city": "Phoenix ",
+    "total_records": 26,
+    "accessible_count": 17,
+    "unisex_count": 19,
+    "changing_table_count": 19,
+    "latitude": 41.35,
+    "longitude": -123
+  },
+  {
+    "city": "Eastbourne",
+    "total_records": 10,
+    "accessible_count": 6,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 49.81,
+    "longitude": 0
+  },
+  {
+    "city": "Shilin District",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 24.71,
+    "longitude": 121
+  },
+  {
+    "city": "Lakeland",
+    "total_records": 7,
+    "accessible_count": 6,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 26.92,
+    "longitude": -82
+  },
+  {
+    "city": "Wilson",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 35.04,
+    "longitude": -78
+  },
+  {
+    "city": "Tucson",
+    "total_records": 34,
+    "accessible_count": 22,
+    "unisex_count": 25,
+    "changing_table_count": 25,
+    "latitude": 31.48,
+    "longitude": -111
+  },
+  {
+    "city": "Cork",
+    "total_records": 14,
+    "accessible_count": 7,
+    "unisex_count": 11,
+    "changing_table_count": 11,
+    "latitude": 51.36,
+    "longitude": -9
+  },
+  {
+    "city": "Galway",
+    "total_records": 5,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 52.96,
+    "longitude": -10
+  },
+  {
+    "city": "Dresden",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 49.81,
+    "longitude": 13
+  },
+  {
+    "city": "Barrie",
+    "total_records": 16,
+    "accessible_count": 10,
+    "unisex_count": 12,
+    "changing_table_count": 12,
+    "latitude": 44.04,
+    "longitude": -80
+  },
+  {
+    "city": "Woombye",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -26.92,
+    "longitude": 152
+  },
+  {
+    "city": "Creswell",
+    "total_records": 15,
+    "accessible_count": 13,
+    "unisex_count": 13,
+    "changing_table_count": 13,
+    "latitude": 42.68,
+    "longitude": -124
+  },
+  {
+    "city": "Missoula",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 45.43,
+    "longitude": -115
+  },
+  {
+    "city": "Dunedin",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -46.85,
+    "longitude": 170
+  },
+  {
+    "city": "Pearl",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 31.48,
+    "longitude": -91
+  },
+  {
+    "city": "River Falls",
+    "total_records": 10,
+    "accessible_count": 6,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 44.04,
+    "longitude": -93
+  },
+  {
+    "city": "Clarence",
+    "total_records": 31,
+    "accessible_count": 18,
+    "unisex_count": 18,
+    "changing_table_count": 18,
+    "latitude": 42.68,
+    "longitude": -79
+  },
+  {
+    "city": "Fortaleza",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -4,
+    "longitude": -39
+  },
+  {
+    "city": "Ashburton",
+    "total_records": 10,
+    "accessible_count": 8,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 49.81,
+    "longitude": -4
+  },
+  {
+    "city": "Eureka ",
+    "total_records": 12,
+    "accessible_count": 8,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": 40.04,
+    "longitude": -125
+  },
+  {
+    "city": "Tyler ",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 31.48,
+    "longitude": -96
+  },
+  {
+    "city": "Seligman",
+    "total_records": 3,
+    "accessible_count": 0,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 35.04,
+    "longitude": -113
+  },
+  {
+    "city": "Altoona",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 40.04,
+    "longitude": -79
+  },
+  {
+    "city": "Dublin",
+    "total_records": 52,
+    "accessible_count": 29,
+    "unisex_count": 45,
+    "changing_table_count": 45,
+    "latitude": 52.96,
+    "longitude": -7
+  },
+  {
+    "city": "Carrick-on-Shannon",
+    "total_records": 8,
+    "accessible_count": 8,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 52.96,
+    "longitude": -9
+  },
+  {
+    "city": "Lexington",
+    "total_records": 29,
+    "accessible_count": 12,
+    "unisex_count": 15,
+    "changing_table_count": 15,
+    "latitude": 37.5,
+    "longitude": -85
+  },
+  {
+    "city": "Wrocław",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 49.81,
+    "longitude": 17
+  },
+  {
+    "city": "Lynchburg",
+    "total_records": 14,
+    "accessible_count": 11,
+    "unisex_count": 13,
+    "changing_table_count": 13,
+    "latitude": 36.26,
+    "longitude": -80
+  },
+  {
+    "city": "Cape Town ",
+    "total_records": 5,
+    "accessible_count": 1,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": -35.04,
+    "longitude": 18
+  },
+  {
+    "city": "Kamloops ",
+    "total_records": 6,
+    "accessible_count": 6,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 49.81,
+    "longitude": -121
+  },
+  {
+    "city": "Jefferson City",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 37.5,
+    "longitude": -93
+  },
+  {
+    "city": "Joseph",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -118
+  },
+  {
+    "city": "Pendleton",
+    "total_records": 9,
+    "accessible_count": 7,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 45.43,
+    "longitude": -119
+  },
+  {
+    "city": "Mandan",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 45.43,
+    "longitude": -101
+  },
+  {
+    "city": "Moorhead",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": -97
+  },
+  {
+    "city": "Erfurt ",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 49.81,
+    "longitude": 11
+  },
+  {
+    "city": "Lewiston ",
+    "total_records": 21,
+    "accessible_count": 14,
+    "unisex_count": 14,
+    "changing_table_count": 14,
+    "latitude": 45.43,
+    "longitude": -118
+  },
+  {
+    "city": "Blue Mountains ",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 44.04,
+    "longitude": -81
+  },
+  {
+    "city": "Drammen",
+    "total_records": 4,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 58.15,
+    "longitude": 10
+  },
+  {
+    "city": "Lower Hutt",
+    "total_records": 12,
+    "accessible_count": 6,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": -41.35,
+    "longitude": 174
+  },
+  {
+    "city": "Tulsa",
+    "total_records": 9,
+    "accessible_count": 7,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 35.04,
+    "longitude": -96
+  },
+  {
+    "city": "Newtown",
+    "total_records": 18,
+    "accessible_count": 7,
+    "unisex_count": 14,
+    "changing_table_count": 14,
+    "latitude": -35.04,
+    "longitude": 151
+  },
+  {
+    "city": "Kingston",
+    "total_records": 22,
+    "accessible_count": 11,
+    "unisex_count": 17,
+    "changing_table_count": 17,
+    "latitude": 41.35,
+    "longitude": -75
+  },
+  {
+    "city": "London",
+    "total_records": 16,
+    "accessible_count": 12,
+    "unisex_count": 11,
+    "changing_table_count": 11,
+    "latitude": 42.68,
+    "longitude": -82
+  },
+  {
+    "city": "Hastings ",
+    "total_records": 5,
+    "accessible_count": 4,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": -40.04,
+    "longitude": 176
+  },
+  {
+    "city": "State College",
+    "total_records": 11,
+    "accessible_count": 10,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": 40.04,
+    "longitude": -78
+  },
+  {
+    "city": "Peterborough ",
+    "total_records": 16,
+    "accessible_count": 8,
+    "unisex_count": 12,
+    "changing_table_count": 12,
+    "latitude": 44.04,
+    "longitude": -79
+  },
+  {
+    "city": "Santurtzi",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 42.68,
+    "longitude": -4
+  },
+  {
+    "city": "Chattanooga ",
+    "total_records": 10,
+    "accessible_count": 9,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 35.04,
+    "longitude": -86
+  },
+  {
+    "city": "Edinburgh",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 38.76,
+    "longitude": -86
+  },
+  {
+    "city": "Tromsø",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 60.05,
+    "longitude": 18
+  },
+  {
+    "city": "Helena",
+    "total_records": 5,
+    "accessible_count": 1,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 45.43,
+    "longitude": -113
+  },
+  {
+    "city": "59423 Unna",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 51.36,
+    "longitude": 7
+  },
+  {
+    "city": "Amsterdam",
+    "total_records": 10,
+    "accessible_count": 6,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 51.36,
+    "longitude": 4
+  },
+  {
+    "city": "Blythe",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 32.65,
+    "longitude": -115
+  },
+  {
+    "city": "Calenzano",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 42.68,
+    "longitude": 11
+  },
+  {
+    "city": "Bhiwnde ",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 18.29,
+    "longitude": 73
+  },
+  {
+    "city": "Ashcroft",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 49.81,
+    "longitude": -122
+  },
+  {
+    "city": "Boston",
+    "total_records": 5,
+    "accessible_count": 5,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 41.35,
+    "longitude": -79
+  },
+  {
+    "city": "Tallahassee",
+    "total_records": 26,
+    "accessible_count": 22,
+    "unisex_count": 20,
+    "changing_table_count": 20,
+    "latitude": 30.32,
+    "longitude": -85
+  },
+  {
+    "city": "Jönköping",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 56.35,
+    "longitude": 14
+  },
+  {
+    "city": "Alta",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 42.68,
+    "longitude": -111
+  },
+  {
+    "city": "Auckland ",
+    "total_records": 13,
+    "accessible_count": 9,
+    "unisex_count": 13,
+    "changing_table_count": 13,
+    "latitude": -37.5,
+    "longitude": 174
+  },
+  {
+    "city": "Erlangen",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 48.31,
+    "longitude": 11
+  },
+  {
+    "city": "Grenada",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 32.65,
+    "longitude": -90
+  },
+  {
+    "city": "Belfast",
+    "total_records": 11,
+    "accessible_count": 9,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 52.96,
+    "longitude": -6
+  },
+  {
+    "city": "Paris",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 38.76,
+    "longitude": -88
+  },
+  {
+    "city": "Chatswood",
+    "total_records": 15,
+    "accessible_count": 10,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": -33.84,
+    "longitude": 151
+  },
+  {
+    "city": "Henderson",
+    "total_records": 16,
+    "accessible_count": 3,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 35.04,
+    "longitude": -115
+  },
+  {
+    "city": "Palisade",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 45.43,
+    "longitude": -94
+  },
+  {
+    "city": "Huntsville",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 33.84,
+    "longitude": -87
+  },
+  {
+    "city": "Hernando",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 33.84,
+    "longitude": -90
+  },
+  {
+    "city": "Turin",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": 7
+  },
+  {
+    "city": "Thunder bay",
+    "total_records": 7,
+    "accessible_count": 6,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 48.31,
+    "longitude": -90
+  },
+  {
+    "city": "St Ives",
+    "total_records": 8,
+    "accessible_count": 4,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 49.81,
+    "longitude": -6
+  },
+  {
+    "city": "Hot Springs",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 33.84,
+    "longitude": -94
+  },
+  {
+    "city": "Granada",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 36.26,
+    "longitude": -4
+  },
+  {
+    "city": "St Andrews",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 54.62,
+    "longitude": -3
+  },
+  {
+    "city": "Springdale",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": -113
+  },
+  {
+    "city": "Vienna",
+    "total_records": 17,
+    "accessible_count": 12,
+    "unisex_count": 16,
+    "changing_table_count": 16,
+    "latitude": 46.85,
+    "longitude": 16
+  },
+  {
+    "city": "Kayenta",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": -111
+  },
+  {
+    "city": "Tucson",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 31.48,
+    "longitude": -112
+  },
+  {
+    "city": "Maastricht",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 49.81,
+    "longitude": 5
+  },
+  {
+    "city": "Bucharest",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 44.04,
+    "longitude": 26
+  },
+  {
+    "city": "Moorhead",
+    "total_records": 32,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 46.85,
+    "longitude": -97
+  },
+  {
+    "city": "Blue Earth",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 42.68,
+    "longitude": -95
+  },
+  {
+    "city": "Brownwood",
+    "total_records": 5,
+    "accessible_count": 4,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 31.48,
+    "longitude": -99
+  },
+  {
+    "city": "Barcelona",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 41.35,
+    "longitude": 2
+  },
+  {
+    "city": "South shore",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 37.5,
+    "longitude": -83
+  },
+  {
+    "city": "Nairobi",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -2,
+    "longitude": 36
+  },
+  {
+    "city": "Dupree",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 44.04,
+    "longitude": -102
+  },
+  {
+    "city": "New Glasgow",
+    "total_records": 5,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": -63
+  },
+  {
+    "city": "Summerville",
+    "total_records": 6,
+    "accessible_count": 6,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 32.65,
+    "longitude": -81
+  },
+  {
+    "city": "Baghdad",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 32.65,
+    "longitude": 44
+  },
+  {
+    "city": "Trondheim",
+    "total_records": 7,
+    "accessible_count": 2,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 60.05,
+    "longitude": 10
+  },
+  {
+    "city": "Jonquière",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 48.31,
+    "longitude": -72
+  },
+  {
+    "city": "Aberdeen",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": -99
+  },
+  {
+    "city": "Augusta",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 32.65,
+    "longitude": -82
+  },
+  {
+    "city": "Bruxelles",
+    "total_records": 4,
+    "accessible_count": 0,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 49.81,
+    "longitude": 4
+  },
+  {
+    "city": "Sauk Rapids",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 45.43,
+    "longitude": -95
+  },
+  {
+    "city": "Little Rock",
+    "total_records": 17,
+    "accessible_count": 10,
+    "unisex_count": 11,
+    "changing_table_count": 11,
+    "latitude": 33.84,
+    "longitude": -93
+  },
+  {
+    "city": "Courtenay",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 48.31,
+    "longitude": -126
+  },
+  {
+    "city": "Luxembourg-city",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 48.31,
+    "longitude": 6
+  },
+  {
+    "city": "San Juan",
+    "total_records": 9,
+    "accessible_count": 2,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 18.29,
+    "longitude": -67
+  },
+  {
+    "city": "Eau Claire",
+    "total_records": 12,
+    "accessible_count": 7,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 44.04,
+    "longitude": -92
+  },
+  {
+    "city": "Goulburn",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -35.04,
+    "longitude": 149
+  },
+  {
+    "city": "Holland",
+    "total_records": 10,
+    "accessible_count": 5,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 42.68,
+    "longitude": -87
+  },
+  {
+    "city": "chandigarh",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 30.32,
+    "longitude": 76
+  },
+  {
+    "city": "Le Mans",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 46.85,
+    "longitude": 0
+  },
+  {
+    "city": "Jackson",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 36.26,
+    "longitude": -90
+  },
+  {
+    "city": "Cardiff",
+    "total_records": 14,
+    "accessible_count": 7,
+    "unisex_count": 12,
+    "changing_table_count": 12,
+    "latitude": 51.36,
+    "longitude": -4
+  },
+  {
+    "city": "friedland ",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 48.31,
+    "longitude": 15
+  },
+  {
+    "city": "friedland ",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 52.96,
+    "longitude": 13
+  },
+  {
+    "city": "Cape Coral ",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 25.81,
+    "longitude": -83
+  },
+  {
+    "city": "Valley ",
+    "total_records": 7,
+    "accessible_count": 5,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 32.65,
+    "longitude": -86
+  },
+  {
+    "city": "Dubbo",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -32.65,
+    "longitude": 148
+  },
+  {
+    "city": "Breckenridge",
+    "total_records": 11,
+    "accessible_count": 7,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 38.76,
+    "longitude": -107
+  },
+  {
+    "city": "Água Branca",
+    "total_records": 7,
+    "accessible_count": 1,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": -23.62,
+    "longitude": -47
+  },
+  {
+    "city": "Batesville",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 35.04,
+    "longitude": -92
+  },
+  {
+    "city": "Pierre",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -101
+  },
+  {
+    "city": "Owasso ",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 36.26,
+    "longitude": -96
+  },
+  {
+    "city": "Huntsville",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 30.32,
+    "longitude": -96
+  },
+  {
+    "city": "Recoleta",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -33.84,
+    "longitude": -71
+  },
+  {
+    "city": "Memphis",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 35.04,
+    "longitude": -91
+  },
+  {
+    "city": "Roswell ",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 32.65,
+    "longitude": -105
+  },
+  {
+    "city": "Port Orange",
+    "total_records": 7,
+    "accessible_count": 4,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 28.04,
+    "longitude": -81
+  },
+  {
+    "city": "Saint-Hyacinthe",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 45.43,
+    "longitude": -73
+  },
+  {
+    "city": "Rochester",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 42.68,
+    "longitude": -93
+  },
+  {
+    "city": "Helsinki",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 60.05,
+    "longitude": 25
+  },
+  {
+    "city": "Kings Beach",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 38.76,
+    "longitude": -121
+  },
+  {
+    "city": "Greeley",
+    "total_records": 8,
+    "accessible_count": 7,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 40.04,
+    "longitude": -105
+  },
+  {
+    "city": "Munich",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 46.85,
+    "longitude": 11
+  },
+  {
+    "city": "Wasta",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -103
+  },
+  {
+    "city": "Weatherford",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 35.04,
+    "longitude": -99
+  },
+  {
+    "city": "Tel Aviv",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 31.48,
+    "longitude": 34
+  },
+  {
+    "city": "Canberra",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": -36.26,
+    "longitude": 149
+  },
+  {
+    "city": "Mirani",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -21.47,
+    "longitude": 148
+  },
+  {
+    "city": "Proserpine",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -20.4,
+    "longitude": 148
+  },
+  {
+    "city": "Umeå",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 60.05,
+    "longitude": 20
+  },
+  {
+    "city": "Ramos Mejía ",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": -35.04,
+    "longitude": -59
+  },
+  {
+    "city": "St. Paul",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 35.04,
+    "longitude": -94
+  },
+  {
+    "city": "Morehead",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 37.5,
+    "longitude": -84
+  },
+  {
+    "city": "Cañon City",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 37.5,
+    "longitude": -106
+  },
+  {
+    "city": "Kearney",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 40.04,
+    "longitude": -100
+  },
+  {
+    "city": "Monterrey",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 24.71,
+    "longitude": -101
+  },
+  {
+    "city": "North Bay",
+    "total_records": 8,
+    "accessible_count": 6,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 45.43,
+    "longitude": -80
+  },
+  {
+    "city": "Carriere",
+    "total_records": 7,
+    "accessible_count": 1,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 30.32,
+    "longitude": -90
+  },
+  {
+    "city": "Gander ",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 48.31,
+    "longitude": -55
+  },
+  {
+    "city": "Fort McMurray",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 56.35,
+    "longitude": -112
+  },
+  {
+    "city": "Kingston",
+    "total_records": 9,
+    "accessible_count": 6,
+    "unisex_count": 8,
+    "changing_table_count": 8,
+    "latitude": 44.04,
+    "longitude": -77
+  },
+  {
+    "city": "Rossland ",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 48.31,
+    "longitude": -118
+  },
+  {
+    "city": "Aguila",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 33.84,
+    "longitude": -114
+  },
+  {
+    "city": "Christchurch",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": -44.04,
+    "longitude": 172
+  },
+  {
+    "city": "Wałbrzych",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 49.81,
+    "longitude": 16
+  },
+  {
+    "city": "Morris",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 45.43,
+    "longitude": -96
+  },
+  {
+    "city": "St. John’s ",
+    "total_records": 6,
+    "accessible_count": 2,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 46.85,
+    "longitude": -53
+  },
+  {
+    "city": "Liptovský Mikuláš",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 48.31,
+    "longitude": 19
+  },
+  {
+    "city": "Hantsport",
+    "total_records": 5,
+    "accessible_count": 1,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 44.04,
+    "longitude": -65
+  },
+  {
+    "city": "Ellsworth",
+    "total_records": 12,
+    "accessible_count": 5,
+    "unisex_count": 9,
+    "changing_table_count": 9,
+    "latitude": 44.04,
+    "longitude": -69
+  },
+  {
+    "city": "София ",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 42.68,
+    "longitude": 23
+  },
+  {
+    "city": "Omaha",
+    "total_records": 14,
+    "accessible_count": 10,
+    "unisex_count": 10,
+    "changing_table_count": 10,
+    "latitude": 40.04,
+    "longitude": -96
+  },
+  {
+    "city": "Claresholm ",
+    "total_records": 6,
+    "accessible_count": 3,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 49.81,
+    "longitude": -114
+  },
+  {
+    "city": "Mostar",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 42.68,
+    "longitude": 17
+  },
+  {
+    "city": "Canterbury",
+    "total_records": 7,
+    "accessible_count": 4,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 49.81,
+    "longitude": 1
+  },
+  {
+    "city": "Poznań",
+    "total_records": 3,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 51.36,
+    "longitude": 16
+  },
+  {
+    "city": "Laona",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 45.43,
+    "longitude": -89
+  },
+  {
+    "city": "Prague",
+    "total_records": 4,
+    "accessible_count": 1,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 49.81,
+    "longitude": 14
+  },
+  {
+    "city": "Athlone",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 52.96,
+    "longitude": -8
+  },
+  {
+    "city": "North Conway",
+    "total_records": 5,
+    "accessible_count": 4,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 44.04,
+    "longitude": -72
+  },
+  {
+    "city": "West",
+    "total_records": 8,
+    "accessible_count": 7,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 31.48,
+    "longitude": -98
+  },
+  {
+    "city": "Elma",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 46.85,
+    "longitude": -124
+  },
+  {
+    "city": "Grangeville",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": -117
+  },
+  {
+    "city": "Kempton",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -42.68,
+    "longitude": 147
+  },
+  {
+    "city": "Panama city",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 8.02,
+    "longitude": -80
+  },
+  {
+    "city": "Turku",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 60.05,
+    "longitude": 22
+  },
+  {
+    "city": "Sioux Falls",
+    "total_records": 12,
+    "accessible_count": 6,
+    "unisex_count": 12,
+    "changing_table_count": 12,
+    "latitude": 42.68,
+    "longitude": -97
+  },
+  {
+    "city": "Tartu",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 58.15,
+    "longitude": 26
+  },
+  {
+    "city": "Tuscaloosa",
+    "total_records": 7,
+    "accessible_count": 6,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 32.65,
+    "longitude": -88
+  },
+  {
+    "city": "Manhattan",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 38.76,
+    "longitude": -97
+  },
+  {
+    "city": "Fort Walton Beach",
+    "total_records": 18,
+    "accessible_count": 10,
+    "unisex_count": 15,
+    "changing_table_count": 15,
+    "latitude": 30.32,
+    "longitude": -87
+  },
+  {
+    "city": "Sudbury",
+    "total_records": 6,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 45.43,
+    "longitude": -81
+  },
+  {
+    "city": "West Plains ",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 36.26,
+    "longitude": -92
+  },
+  {
+    "city": "Minot",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 46.85,
+    "longitude": -102
+  },
+  {
+    "city": "Marshfield",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 36.26,
+    "longitude": -93
+  },
+  {
+    "city": "Edwardsville ",
+    "total_records": 9,
+    "accessible_count": 6,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 38.76,
+    "longitude": -90
+  },
+  {
+    "city": "100 Mile House",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 51.36,
+    "longitude": -122
+  },
+  {
+    "city": "Thompsonville",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -87
+  },
+  {
+    "city": "Cave City",
+    "total_records": 5,
+    "accessible_count": 4,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 36.26,
+    "longitude": -86
+  },
+  {
+    "city": "Twin Falls ",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 41.35,
+    "longitude": -115
+  },
+  {
+    "city": "Kailua Kona",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 19.34,
+    "longitude": -156
+  },
+  {
+    "city": "Williams",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 38.76,
+    "longitude": -123
+  },
+  {
+    "city": "Salome",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 32.65,
+    "longitude": -114
+  },
+  {
+    "city": "Krakow ",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 49.81,
+    "longitude": 19
+  },
+  {
+    "city": "Córdoba",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 37.5,
+    "longitude": -5
+  },
+  {
+    "city": "Casablanca",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 32.65,
+    "longitude": -8
+  },
+  {
+    "city": "Cody",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -110
+  },
+  {
+    "city": "Queenstown",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -45.43,
+    "longitude": 168
+  },
+  {
+    "city": "Joensuu",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 60.05,
+    "longitude": 29
+  },
+  {
+    "city": "Jerez de la Frontera",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": -7
+  },
+  {
+    "city": "Sevilla",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": -6
+  },
+  {
+    "city": "Helsinki",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 60.05,
+    "longitude": 24
+  },
+  {
+    "city": "Delhi",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 28.04,
+    "longitude": 77
+  },
+  {
+    "city": "Santa Maria",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 33.84,
+    "longitude": -121
+  },
+  {
+    "city": "Columbus ",
+    "total_records": 4,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 31.48,
+    "longitude": -85
+  },
+  {
+    "city": "Anson",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 32.65,
+    "longitude": -100
+  },
+  {
+    "city": "Sippy Downs",
+    "total_records": 5,
+    "accessible_count": 4,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -26.92,
+    "longitude": 153
+  },
+  {
+    "city": "Ottawa",
+    "total_records": 9,
+    "accessible_count": 3,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 45.43,
+    "longitude": -76
+  },
+  {
+    "city": "Mildura ",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -35.04,
+    "longitude": 142
+  },
+  {
+    "city": "Landsberg am Lech",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 46.85,
+    "longitude": 10
+  },
+  {
+    "city": "Bunbury",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": -33.84,
+    "longitude": 115
+  },
+  {
+    "city": "Margaret River",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -35.04,
+    "longitude": 115
+  },
+  {
+    "city": "Gracetown",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": -35.04,
+    "longitude": 114
+  },
+  {
+    "city": "Marquette",
+    "total_records": 15,
+    "accessible_count": 14,
+    "unisex_count": 13,
+    "changing_table_count": 13,
+    "latitude": 45.43,
+    "longitude": -88
+  },
+  {
+    "city": "Hays",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 38.76,
+    "longitude": -100
+  },
+  {
+    "city": "Chennai",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 12.08,
+    "longitude": 80
+  },
+  {
+    "city": "Merida",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 20.4,
+    "longitude": -90
+  },
+  {
+    "city": "Durant",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 33.84,
+    "longitude": -97
+  },
+  {
+    "city": "Saumur",
+    "total_records": 10,
+    "accessible_count": 7,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 46.85,
+    "longitude": -1
+  },
+  {
+    "city": "Miles City",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 45.43,
+    "longitude": -106
+  },
+  {
+    "city": "Lafayette",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 29.17,
+    "longitude": -93
+  },
+  {
+    "city": "Hoorn Terschelling ",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 52.96,
+    "longitude": 5
+  },
+  {
+    "city": "Jamnagar",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 21.47,
+    "longitude": 70
+  },
+  {
+    "city": "Aalborg",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 56.35,
+    "longitude": 9
+  },
+  {
+    "city": "Paradise",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": -86
+  },
+  {
+    "city": "Johnson City",
+    "total_records": 5,
+    "accessible_count": 3,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 36.26,
+    "longitude": -83
+  },
+  {
+    "city": "Bay Saint Louis",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 29.17,
+    "longitude": -90
+  },
+  {
+    "city": "Wendell",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 42.68,
+    "longitude": -115
+  },
+  {
+    "city": "Virginia ",
+    "total_records": 5,
+    "accessible_count": 5,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 46.85,
+    "longitude": -93
+  },
+  {
+    "city": "Göttingen ",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 51.36,
+    "longitude": 9
+  },
+  {
+    "city": "Bergen",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 60.05,
+    "longitude": 5
+  },
+  {
+    "city": "Montevideo ",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -35.04,
+    "longitude": -57
+  },
+  {
+    "city": "Ocean shores",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 46.85,
+    "longitude": -125
+  },
+  {
+    "city": "Ballarat",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -38.76,
+    "longitude": 143
+  },
+  {
+    "city": "Jasper ",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 51.36,
+    "longitude": -119
+  },
+  {
+    "city": "Clovis",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 33.84,
+    "longitude": -104
+  },
+  {
+    "city": "Thamel",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 26.92,
+    "longitude": 85
+  },
+  {
+    "city": "Harlan",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": -84
+  },
+  {
+    "city": "Västerås",
+    "total_records": 5,
+    "accessible_count": 4,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 58.15,
+    "longitude": 16
+  },
+  {
+    "city": "SLC",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 21.47,
+    "longitude": -159
+  },
+  {
+    "city": "Bayfield ",
+    "total_records": 4,
+    "accessible_count": 4,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 36.26,
+    "longitude": -108
+  },
+  {
+    "city": "Selkirk",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 49.81,
+    "longitude": -97
+  },
+  {
+    "city": "Skövde",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 58.15,
+    "longitude": 13
+  },
+  {
+    "city": "Rainelle",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 37.5,
+    "longitude": -81
+  },
+  {
+    "city": "Port aux Basques ",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 46.85,
+    "longitude": -60
+  },
+  {
+    "city": "Riffa",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 25.81,
+    "longitude": 50
+  },
+  {
+    "city": "College Station",
+    "total_records": 12,
+    "accessible_count": 7,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 30.32,
+    "longitude": -97
+  },
+  {
+    "city": "Brookings",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 44.04,
+    "longitude": -97
+  },
+  {
+    "city": "Ulaanbaatar",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 46.85,
+    "longitude": 106
+  },
+  {
+    "city": "Nelson",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -41.35,
+    "longitude": 173
+  },
+  {
+    "city": "Heidelberg ",
+    "total_records": 7,
+    "accessible_count": 0,
+    "unisex_count": 7,
+    "changing_table_count": 7,
+    "latitude": 48.31,
+    "longitude": 8
+  },
+  {
+    "city": "New Plymouth",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -40.04,
+    "longitude": 174
+  },
+  {
+    "city": "Belgrade",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 45.43,
+    "longitude": -112
+  },
+  {
+    "city": "Brandon",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 49.81,
+    "longitude": -100
+  },
+  {
+    "city": "Bisbee",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 30.32,
+    "longitude": -110
+  },
+  {
+    "city": "Strömstad",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 58.15,
+    "longitude": 11
+  },
+  {
+    "city": "Chilliwack",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 48.31,
+    "longitude": -122
+  },
+  {
+    "city": "Riverton",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 42.68,
+    "longitude": -109
+  },
+  {
+    "city": "Leipzig",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 49.81,
+    "longitude": 12
+  },
+  {
+    "city": "Goodland",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 38.76,
+    "longitude": -102
+  },
+  {
+    "city": "Taree",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -32.65,
+    "longitude": 152
+  },
+  {
+    "city": "Jaipur",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 25.81,
+    "longitude": 75
+  },
+  {
+    "city": "Mandeville",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 30.32,
+    "longitude": -91
+  },
+  {
+    "city": "Canmore",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 49.81,
+    "longitude": -116
+  },
+  {
+    "city": "Новосибирск ",
+    "total_records": 3,
+    "accessible_count": 0,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 54.62,
+    "longitude": 82
+  },
+  {
+    "city": "Kapolei",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 20.4,
+    "longitude": -159
+  },
+  {
+    "city": "Tybee Island",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 31.48,
+    "longitude": -81
+  },
+  {
+    "city": "Ciudad de México",
+    "total_records": 4,
+    "accessible_count": 0,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 19.34,
+    "longitude": -100
+  },
+  {
+    "city": "Terrace",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 52.96,
+    "longitude": -129
+  },
+  {
+    "city": "Brookings",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 41.35,
+    "longitude": -125
+  },
+  {
+    "city": "Whitehorse",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 60.05,
+    "longitude": -136
+  },
+  {
+    "city": "Borlänge",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 60.05,
+    "longitude": 15
+  },
+  {
+    "city": "Houghton ",
+    "total_records": 12,
+    "accessible_count": 10,
+    "unisex_count": 12,
+    "changing_table_count": 12,
+    "latitude": 46.85,
+    "longitude": -89
+  },
+  {
+    "city": "Idaho Falls",
+    "total_records": 5,
+    "accessible_count": 5,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 42.68,
+    "longitude": -112
+  },
+  {
+    "city": "Braemar",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 56.35,
+    "longitude": -4
+  },
+  {
+    "city": "Wailea ",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 20.4,
+    "longitude": -157
+  },
+  {
+    "city": "Bielefeld",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 51.36,
+    "longitude": 8
+  },
+  {
+    "city": "Kouvola",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 60.05,
+    "longitude": 26
+  },
+  {
+    "city": "Emerald Isle",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 33.84,
+    "longitude": -77
+  },
+  {
+    "city": " Mohave desert ",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 33.84,
+    "longitude": -116
+  },
+  {
+    "city": "Florence",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 33.84,
+    "longitude": -80
+  },
+  {
+    "city": "Limon",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 38.76,
+    "longitude": -104
+  },
+  {
+    "city": "Haguenau",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 48.31,
+    "longitude": 7
+  },
+  {
+    "city": "Apalachicola",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 29.17,
+    "longitude": -85
+  },
+  {
+    "city": "San cypriam",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": 2
+  },
+  {
+    "city": "yarmouth",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 42.68,
+    "longitude": -67
+  },
+  {
+    "city": "Lloydminster",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 52.96,
+    "longitude": -111
+  },
+  {
+    "city": "Auburn ",
+    "total_records": 3,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 31.48,
+    "longitude": -86
+  },
+  {
+    "city": "Iron River",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 45.43,
+    "longitude": -92
+  },
+  {
+    "city": "Kingston",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 46.85,
+    "longitude": -95
+  },
+  {
+    "city": "Camrose",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 52.96,
+    "longitude": -113
+  },
+  {
+    "city": "Fréjus",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 42.68,
+    "longitude": 6
+  },
+  {
+    "city": "San Angelo",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 30.32,
+    "longitude": -101
+  },
+  {
+    "city": "Natchitoches",
+    "total_records": 5,
+    "accessible_count": 4,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 31.48,
+    "longitude": -94
+  },
+  {
+    "city": "Kewaunee ",
+    "total_records": 6,
+    "accessible_count": 6,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 44.04,
+    "longitude": -88
+  },
+  {
+    "city": "Trivandrum",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 8.02,
+    "longitude": 76
+  },
+  {
+    "city": "Ombrasgyalos?",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 35.04,
+    "longitude": 24
+  },
+  {
+    "city": "Macomb",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 40.04,
+    "longitude": -91
+  },
+  {
+    "city": "Alpena ",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -84
+  },
+  {
+    "city": "Mykines",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 60.05,
+    "longitude": -8
+  },
+  {
+    "city": "Penticton",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 48.31,
+    "longitude": -120
+  },
+  {
+    "city": "Qom",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 33.84,
+    "longitude": 50
+  },
+  {
+    "city": "Athens",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 37.5,
+    "longitude": 23
+  },
+  {
+    "city": "Cortinae ",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 52.96,
+    "longitude": -128
+  },
+  {
+    "city": "Sheridan",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -107
+  },
+  {
+    "city": "Macksville",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -31.48,
+    "longitude": 152
+  },
+  {
+    "city": "Playa Blanca",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 28.04,
+    "longitude": -14
+  },
+  {
+    "city": "Regina",
+    "total_records": 6,
+    "accessible_count": 3,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 49.81,
+    "longitude": -105
+  },
+  {
+    "city": "Schrag",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 46.85,
+    "longitude": -119
+  },
+  {
+    "city": "Burnie",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -41.35,
+    "longitude": 145
+  },
+  {
+    "city": "Rimini",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": 12
+  },
+  {
+    "city": "Sulphur Springs",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 32.65,
+    "longitude": -96
+  },
+  {
+    "city": "Harlingen",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 25.81,
+    "longitude": -98
+  },
+  {
+    "city": "Como",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 45.43,
+    "longitude": 9
+  },
+  {
+    "city": "Culberson County",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 31.48,
+    "longitude": -105
+  },
+  {
+    "city": "Garden City ",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 37.5,
+    "longitude": -101
+  },
+  {
+    "city": "Speculator",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 42.68,
+    "longitude": -75
+  },
+  {
+    "city": "Brinkley",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 33.84,
+    "longitude": -92
+  },
+  {
+    "city": "Le Château-d'Oléron",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 45.43,
+    "longitude": -2
+  },
+  {
+    "city": "Meschers-sur-Gironde",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 45.43,
+    "longitude": -1
+  },
+  {
+    "city": "Enugu",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 6,
+    "longitude": 7
+  },
+  {
+    "city": "Prince George",
+    "total_records": 12,
+    "accessible_count": 8,
+    "unisex_count": 11,
+    "changing_table_count": 11,
+    "latitude": 52.96,
+    "longitude": -123
+  },
+  {
+    "city": "Medora",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 46.85,
+    "longitude": -104
+  },
+  {
+    "city": "Salt Lake City",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 40.04,
+    "longitude": -113
+  },
+  {
+    "city": "Taranto",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 40.04,
+    "longitude": 17
+  },
+  {
+    "city": "Freeport",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 28.04,
+    "longitude": -96
+  },
+  {
+    "city": "Laag-Keppel",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 51.36,
+    "longitude": 6
+  },
+  {
+    "city": "Port Elgin",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -82
+  },
+  {
+    "city": "Columbia Falls",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 48.31,
+    "longitude": -115
+  },
+  {
+    "city": "North Las Vegas",
+    "total_records": 5,
+    "accessible_count": 1,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 36.26,
+    "longitude": -116
+  },
+  {
+    "city": "서울",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": 126
+  },
+  {
+    "city": "Wytheville",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": -82
+  },
+  {
+    "city": "Albury",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": -36.26,
+    "longitude": 146
+  },
+  {
+    "city": "Schramberg",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 46.85,
+    "longitude": 8
+  },
+  {
+    "city": "Henderson",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 40.04,
+    "longitude": -98
+  },
+  {
+    "city": "Emporia",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 37.5,
+    "longitude": -97
+  },
+  {
+    "city": "Aarhus",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 54.62,
+    "longitude": 10
+  },
+  {
+    "city": "?",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -28.04,
+    "longitude": 121
+  },
+  {
+    "city": "Aleknagik",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 58.15,
+    "longitude": -159
+  },
+  {
+    "city": "Tampere",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 60.05,
+    "longitude": 23
+  },
+  {
+    "city": "Washington",
+    "total_records": 4,
+    "accessible_count": 2,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 37.5,
+    "longitude": -92
+  },
+  {
+    "city": "Farmington ",
+    "total_records": 5,
+    "accessible_count": 5,
+    "unisex_count": 5,
+    "changing_table_count": 5,
+    "latitude": 36.26,
+    "longitude": -109
+  },
+  {
+    "city": "Watertown",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -98
+  },
+  {
+    "city": "Corner Brook",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 48.31,
+    "longitude": -58
+  },
+  {
+    "city": "bern",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 46.85,
+    "longitude": 7
+  },
+  {
+    "city": "Quinte West",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 44.04,
+    "longitude": -78
+  },
+  {
+    "city": "Brenham",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 29.17,
+    "longitude": -97
+  },
+  {
+    "city": "bathurst",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -33.84,
+    "longitude": 149
+  },
+  {
+    "city": "Laredo",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 26.92,
+    "longitude": -100
+  },
+  {
+    "city": "Monroe",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 33.84,
+    "longitude": -81
+  },
+  {
+    "city": "Townsville",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -19.34,
+    "longitude": 146
+  },
+  {
+    "city": "Glenrowan",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -37.5,
+    "longitude": 146
+  },
+  {
+    "city": "Glenrowan",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -31.48,
+    "longitude": 146
+  },
+  {
+    "city": "Gundagai",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -36.26,
+    "longitude": 148
+  },
+  {
+    "city": "warrnambool",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -38.76,
+    "longitude": 142
+  },
+  {
+    "city": "Singapore",
+    "total_records": 6,
+    "accessible_count": 5,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 1,
+    "longitude": 103
+  },
+  {
+    "city": "Aberystwyth",
+    "total_records": 3,
+    "accessible_count": 1,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 51.36,
+    "longitude": -5
+  },
+  {
+    "city": "Potsdam",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -75
+  },
+  {
+    "city": "Drumheller",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 51.36,
+    "longitude": -113
+  },
+  {
+    "city": "Thompson",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 54.62,
+    "longitude": -98
+  },
+  {
+    "city": "Woodburn",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 40.04,
+    "longitude": -85
+  },
+  {
+    "city": "Platteville ",
+    "total_records": 6,
+    "accessible_count": 6,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 42.68,
+    "longitude": -91
+  },
+  {
+    "city": "Grand Forks",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 46.85,
+    "longitude": -98
+  },
+  {
+    "city": "Timmins",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 48.31,
+    "longitude": -82
+  },
+  {
+    "city": "Quezon City",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 14.13,
+    "longitude": 121
+  },
+  {
+    "city": "Port Arthur",
+    "total_records": 5,
+    "accessible_count": 4,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 29.17,
+    "longitude": -94
+  },
+  {
+    "city": "Guerneville",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 37.5,
+    "longitude": -124
+  },
+  {
+    "city": "Carbondale",
+    "total_records": 26,
+    "accessible_count": 7,
+    "unisex_count": 6,
+    "changing_table_count": 6,
+    "latitude": 37.5,
+    "longitude": -90
+  },
+  {
+    "city": "Beckley, ",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 37.5,
+    "longitude": -82
+  },
+  {
+    "city": "Genève",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": 6
+  },
+  {
+    "city": "Harrisburg ",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 37.5,
+    "longitude": -89
+  },
+  {
+    "city": "Bow Island",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 49.81,
+    "longitude": -112
+  },
+  {
+    "city": "Pleasanton",
+    "total_records": 4,
+    "accessible_count": 3,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 37.5,
+    "longitude": -95
+  },
+  {
+    "city": "Port Lincoln",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -35.04,
+    "longitude": 135
+  },
+  {
+    "city": "Carrollton\r\r",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 32.65,
+    "longitude": -89
+  },
+  {
+    "city": "Tifton",
+    "total_records": 2,
+    "accessible_count": 1,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 30.32,
+    "longitude": -84
+  },
+  {
+    "city": "Campinas",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -23.62,
+    "longitude": -48
+  },
+  {
+    "city": "Lufkin",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 30.32,
+    "longitude": -95
+  },
+  {
+    "city": "Kinder ",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 30.32,
+    "longitude": -93
+  },
+  {
+    "city": null,
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -24.71,
+    "longitude": -66
+  },
+  {
+    "city": "Los Angeles",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 10.04,
+    "longitude": -85
+  },
+  {
+    "city": "Huron",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 44.04,
+    "longitude": -99
+  },
+  {
+    "city": "Mountainhill",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": -41.35,
+    "longitude": -6
+  },
+  {
+    "city": "Esteio",
+    "total_records": 3,
+    "accessible_count": 3,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -30.32,
+    "longitude": -52
+  },
+  {
+    "city": "Lee Vining",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 37.5,
+    "longitude": -120
+  },
+  {
+    "city": "Baddeck",
+    "total_records": 2,
+    "accessible_count": 0,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 45.43,
+    "longitude": -61
+  },
+  {
+    "city": "Oskaloosa",
+    "total_records": 2,
+    "accessible_count": 2,
+    "unisex_count": 2,
+    "changing_table_count": 2,
+    "latitude": 40.04,
+    "longitude": -93
+  },
+  {
+    "city": "Pembroke",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 44.04,
+    "longitude": -68
+  },
+  {
+    "city": "Bakersfield",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 35.04,
+    "longitude": -119
+  },
+  {
+    "city": "California",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 35.04,
+    "longitude": -118
+  },
+  {
+    "city": "Merced",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": -121
+  },
+  {
+    "city": "Cambria",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 35.04,
+    "longitude": -122
+  },
+  {
+    "city": "Kabul",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 33.84,
+    "longitude": 69
+  },
+  {
+    "city": "Tunis",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 36.26,
+    "longitude": 10
+  },
+  {
+    "city": "Rio Grande",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -32.65,
+    "longitude": -53
+  },
+  {
+    "city": "Porto Alegre",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": -30.32,
+    "longitude": -43
+  },
+  {
+    "city": "Orleans",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 41.35,
+    "longitude": -70
+  },
+  {
+    "city": "SEDONA",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 33.84,
+    "longitude": -112
+  },
+  {
+    "city": "Telluride",
+    "total_records": 7,
+    "accessible_count": 1,
+    "unisex_count": 3,
+    "changing_table_count": 3,
+    "latitude": 37.5,
+    "longitude": -108
+  },
+  {
+    "city": "Green River",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 38.76,
+    "longitude": -111
+  },
+  {
+    "city": "Rangeley",
+    "total_records": 6,
+    "accessible_count": 0,
+    "unisex_count": 4,
+    "changing_table_count": 4,
+    "latitude": 44.04,
+    "longitude": -71
+  },
+  {
+    "city": "Antigonish",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": -62
+  },
+  {
+    "city": "New Castle",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 38.76,
+    "longitude": -108
+  },
+  {
+    "city": "Puebla",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 18.29,
+    "longitude": -99
+  },
+  {
+    "city": "Oaxaca",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 16.2,
+    "longitude": -97
+  },
+  {
+    "city": "Louisburg",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 37.5,
+    "longitude": -94
+  },
+  {
+    "city": "Dillon",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 0,
+    "changing_table_count": 0,
+    "latitude": 44.04,
+    "longitude": -113
+  },
+  {
+    "city": "288 Manzanillo",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 18.29,
+    "longitude": -105
+  },
+  {
+    "city": "Field",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 51.36,
+    "longitude": -117
+  },
+  {
+    "city": "Renfrew County",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 45.43,
+    "longitude": -78
+  },
+  {
+    "city": "IOWA CITY",
+    "total_records": 1,
+    "accessible_count": 1,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 40.04,
+    "longitude": -92
+  },
+  {
+    "city": "GRANTS PASS",
+    "total_records": 1,
+    "accessible_count": 0,
+    "unisex_count": 1,
+    "changing_table_count": 1,
+    "latitude": 41.35,
+    "longitude": -124
+  }
+]
