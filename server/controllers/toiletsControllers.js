@@ -1,9 +1,9 @@
 const { fetchToilets } = require('../models') 
 
 
-exports.getToilets = ({ queries }, res, next) => {
+exports.getToilets = ({ query }, res, next) => {
     const url = process.env.NODE_ENV === 'production' ? 'https://thunderbox.herokuapp.com/' : '*'
-    fetchToilets(queries)
+    fetchToilets(query)
         .then((toilets)=> {
             res.set({
                 ['Access-Control-Allow-Origin']: url
