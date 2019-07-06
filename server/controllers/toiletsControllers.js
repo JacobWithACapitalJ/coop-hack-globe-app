@@ -1,4 +1,4 @@
-const { fetchToilets } = require('../models') 
+const { fetchToilets, fetchBiggestToilet } = require('../models') 
 
 
 exports.getToilets = ({ query }, res, next) => {
@@ -12,3 +12,11 @@ exports.getToilets = ({ query }, res, next) => {
         })
         .catch(next)
 }
+
+exports.getBiggestToilet = ({params}, res, next) => {
+    fetchBiggestToilet(params)
+        .then(([{toilets:[toilet]})=>
+        res.status(200).send(toilet[params.propery])
+        .catch(next)
+}
+

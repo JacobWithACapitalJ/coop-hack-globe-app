@@ -7,3 +7,8 @@ exports.fetchToilets = ({city}) => {
             if (city) query.where({city})
         })
 }
+
+exports.fetchBiggestToilet = ({property}) => {
+    return connection('toilets')
+        .max(property)
+}
