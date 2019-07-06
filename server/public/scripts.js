@@ -4,7 +4,7 @@ uniSexBut.addEventListener("onclick", getUnisex);
 
 function getUnisex() {
   axios
-    .get("http://localhost:9090/api/toilets")
+    .get(window.location.host + "/api/toilets")
     .then(response => console.log(response))
     .catch(console.log);
 };
@@ -14,7 +14,7 @@ function getUnisex() {
 function getAllData() {
   if (!sessionStorage.getItem('toilets')) {
   axios
-    .get("http://localhost:9090/api/toilets")
+    .get(window.location.host + "9090/api/toilets")
     .then(({data: {toilets}}) => {
       sessionStorage.setItem('toilets', JSON.stringify(toilets));
     })
