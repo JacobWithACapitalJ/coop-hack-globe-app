@@ -90,6 +90,7 @@
                 if (xhr.status === 200) {
                   let out = [];
                   let data = JSON.parse(sessionStorage.getItem('toilets'));
+                  console.log(data)
                   data.forEach((location, index) => {
                     out.push(location.latitude, location.longitude, 0.2);
                   });
