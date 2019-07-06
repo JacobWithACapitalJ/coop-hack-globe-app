@@ -14,9 +14,8 @@ function getUnisex() {
 function getAllData() {
 
   if (!sessionStorage.getItem('toilets')) {
-    console.log(window.location.host + "/api/toilets")
   axios
-    .get(window.location.host + "/api/toilets")
+    .get("https://thunderbox.herokuapp.com/api/toilets")
     .then(({data: {toilets}}) => {
       sessionStorage.setItem('toilets', JSON.stringify(toilets));
     })
