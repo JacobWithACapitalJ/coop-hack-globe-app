@@ -1,7 +1,6 @@
 const express = require('express');
 const toiletsRouter = require('./toiletsRouter')
 const apiRouter = express.Router();
-const { getToilets } = require('../controllers')
 const { handleWithCode, catchAll404, handle500 } = require('../errors/')
 
 apiRouter.use('/toilets', toiletsRouter);

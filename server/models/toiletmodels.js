@@ -1,4 +1,4 @@
-const connection = require('../../database/connection')
+const connection = require("../../database/connection");
 
 exports.fetchToilets = ({city}) => {
     return connection('toilets')
@@ -9,6 +9,7 @@ exports.fetchToilets = ({city}) => {
 }
 
 exports.fetchBiggestToilet = ({property}) => {
+    console.log(property)
     return connection('toilets')
         .max(property)
         .returning('*')
