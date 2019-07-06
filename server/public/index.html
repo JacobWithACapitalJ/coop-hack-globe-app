@@ -7,28 +7,35 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
     <script src="scripts.js" defer></script>
+    <link rel="icon" type="image/png" href="./images/safespace-favicon.png" />
     </head>
     <title>Safe Spaces</title>
     <script>window.onresize = function () { location.reload(); }</script>
   </head>
   <body>
   <header>
-    <span id="description"><p>Safe Spaces seeks to assist transgender, intersex, and gender nonconforming individuals in locating safe restroom
-      access
-      by compiling information on gender neutral restroom facilities from sources worldwide.</p></span>
-    
+    <img id="teamLogo" src="./images/safespaces.png"/> 
     <div id="titles">
-      <h1>Safe Spaces</h1>
-      <h2>Promoting inclusivity for all</h2>
+      <br>
+      <span id="description"><p>Safe Spaces seeks to assist transgender, intersex, and gender nonconforming individuals in locating safe restroom access by compiling information on gender neutral restroom facilities from sources worldwide.<br></br>
+      Spin the globe to find the location of a safe restroom facility</p></span>
     </div>
-    <img id="teamLogo" src="./images/safespaces.png"/>
+    <a href="https://github.com/JacobWithACapitalJ/coop-hack-globe-app.git" target="_blank"><img id="github" src="./images/github-9-512.png" target="_blank"/></a>
+   
   </header>
   <!--  -->
     <main class="grid-container">
       <div id="filter_menu">
+<<<<<<< HEAD
         <button id="acc" class="mag">Accessibility</button>
         <button id="unisex" class="mag">UniSex</button>
         <button id="chan" class="mag">Changing Table</button>
+=======
+        <button id='all'>All Data</button>
+        <button id='accessible'>Accessibility</button>
+        <button id="unisex">UniSex</button>
+        <button id='changing'>Changing Table</button>
+>>>>>>> f0b4868875affd7f1316c0d32611d11326e55a6e
       </div>
       <div id="globe">
       <body id="globeBody">
@@ -151,8 +158,7 @@
     </main>
     <!--  -->
     <footer>
-      <a href="https://github.com/JacobWithACapitalJ/coop-hack-globe-app.git" target="_blank"><img id="github" src="./images/github-9-512.png" target="_blank"/></a>
-      <p ><a href="https://opensource.org/licenses/MIT" target="_blank">MIT License (MIT)</a><br/> Experiments with Chrome</p>
+      <p ><br><a href="https://opensource.org/licenses/MIT" target="_blank">MIT License (MIT)</a><br/> Experiments with Chrome</p>
       <img id="NCLogo" src="./images/learn_to_code_manchester_original_second-2.png" />
     </footer>
   </body>

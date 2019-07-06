@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const { fetchToilets } = require("../models");
 
 exports.getToilets = ({ queries }, res, next) => {
@@ -14,3 +15,28 @@ exports.getToilets = ({ queries }, res, next) => {
     })
     .catch(next);
 };
+=======
+const { fetchToilets, fetchBiggestToilet } = require('../models') 
+
+
+exports.getToilets = ({ query }, res, next) => {
+    // const url = process.env.NODE_ENV === 'production' ? 'https://thunderbox.herokuapp.com/' : '*'
+    fetchToilets(query)
+        .then((toilets)=> {
+            res.set({
+                ['Access-Control-Allow-Origin']: 'https://thunderbox.herokuapp.com/'
+            })
+            res.status(200).send({toilets})
+        })
+        .catch(next)
+}
+
+exports.getBiggestToilet = ({params}, res, next) => {
+    return fetchBiggestToilet(params)
+        .then((result) => {
+            res.status(200).send(result[0])
+        })
+        .catch(next)
+}
+
+>>>>>>> f0b4868875affd7f1316c0d32611d11326e55a6e
