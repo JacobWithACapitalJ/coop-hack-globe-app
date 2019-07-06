@@ -14,12 +14,13 @@ function getUnisex() {
 function getAllData() {
 
   if (!sessionStorage.getItem('toilets')) {
-  axios
     console.log(window.location.host + "/api/toilets")
+  axios
     .get(window.location.host + "/api/toilets")
     .then(({data: {toilets}}) => {
       sessionStorage.setItem('toilets', JSON.stringify(toilets));
     })
+    .catch(console.log)
   }
 }
 
