@@ -26,9 +26,9 @@
   <!--  -->
     <main class="grid-container">
       <div id="filter_menu">
-        <button >Accessibility</button>
-        <button id="unisex">UniSex</button>
-        <button>Changing Table</button>
+        <button id="acc" class="mag">Accessibility</button>
+        <button id="unisex" class="mag">UniSex</button>
+        <button id="chan" class="mag">Changing Table</button>
       </div>
       <div id="globe">
       <body id="globeBody">
@@ -80,21 +80,49 @@
               var y = document.getElementById("year" + years[i]);
               y.addEventListener("mouseover", settime(globe, i), false);
             }
-
             var xhr;
             TWEEN.start();
             xhr = new XMLHttpRequest();
-            xhr.open("GET", "", true);
+            xhr.open("GET", "/api/toilets", true);
+            console.log("hello")
             xhr.onreadystatechange = function (e) {
               if (xhr.readyState === 4) {
                 if (xhr.status === 200) {
                   let out = [];
-                  let data = JSON.parse(sessionStorage.getItem('toilets'));
+                  let total_records = []
+                  let changingTables = []
+                  let unisex = []
+                  let accessible = []
+                  console.log(xhr.responseText, "<<<<")
+                  // xhr.responseText || sessionStorage.getItem('toilets')
+                  let data = JSON.parse(xhr.responseText);
+                  data = data.toilets
                   data.forEach((location, index) => {
-                    out.push(location.latitude, location.longitude, 0.2);
+                    total_records.push(location.latitude, location.longitude, location.total_records/100);
                   });
+                  data.forEach((location, index) => {
+                    changingTables.push(location.latitude, location.longitude, location.total_records/100);
+                  });
+                  data.forEach((location, index) => {
+                    unisex.push(location.latitude, location.longitude, location.total_records);
+                  });
+                  data.forEach((location, index) => {
+                    accessible.push(location.latitude, location.longitude, location.accessible_count/100);
+                  });
+                  var testData = [["seriesA", total_records],["seriesB", changingTables],["seriesC", unisex],["seriesD", accessible]];
+                  const button = document.getElementById("unisex")
+                  button.addEventListener("click", changeData)
+                  function changeData(){
+                    console.log("<<<<<<<<<<>>>>>>>>>>>>>>>>")
+                    console.log(globe)
+                    data = testData
+                    data[0][1] = unisex
+                    window.data = data;
+                    globe.createPoints();
+                    settime(globe, 0)();
+                    globe.animate();
+                  }
 
-                  var testData = [["seriesA", out]];
                   console.log(testData);
                   data = testData;
                   window.data = data;
