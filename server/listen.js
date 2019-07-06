@@ -3,4 +3,5 @@ const app = require('./app')
 const { PORT = 9090 } = process.env
 app.listen(PORT, ()=> {
     console.log(`i am listening. Honest. Port ${PORT}`)
+    console.log(__dirname.replace(/server/,''))
 })

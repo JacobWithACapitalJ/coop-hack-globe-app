@@ -5,28 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" type="text/css" href="style.css" />
-<<<<<<< HEAD
-    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-=======
-    <!-- below: browser link to axios -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"  type="module"></script>
->>>>>>> 6393270d88de30762c8406414c720c4241f7fefe
     <script src="scripts.js" defer></script>
-    
     </head>
     <title>Safe Spaces</title>
     <script>window.onresize = function () { location.reload(); }</script>
   </head>
   <body>
   <header>
-    <a href="https://github.com/JacobWithACapitalJ/coop-hack-globe-app.git" target="_blank"><img id="github"
-        src="./images/github-9-512.png" target="_blank" /></a>
+    <span id="description"><p>Safe Spaces seeks to assist transgender, intersex, and gender nonconforming individuals in locating safe restroom
+      access
+      by compiling information on gender neutral restroom facilities from sources worldwide.</p></span>
     
     <div id="titles">
       <h1>Safe Spaces</h1>
       <h2>Promoting inclusivity for all</h2>
     </div>
-    <img id="teamLogo" src="./images/safespaces.png" />
+    <img id="teamLogo" src="./images/Safe Spaces Logo Draft 2.png" />
   </header>
   <!--  -->
     <main class="grid-container">
@@ -52,7 +46,6 @@
         <script type="text/javascript" src="/globe/third-party/three.min.js"></script>
         <script type="text/javascript" src="/globe/third-party/Tween.js"></script>
         <script type="text/javascript" src="/globe/globe.js"></script>
-        <script type="text/javascript" src="test.js"></script>
         <script type="text/javascript">
           if (!Detector.webgl) {
             Detector.addGetWebGLMessage();
@@ -91,7 +84,7 @@
             var xhr;
             TWEEN.start();
             xhr = new XMLHttpRequest();
-            xhr.open("GET", "/database/toiletDatabase/data.json", true);
+            xhr.open("GET", "data.json", true);
             xhr.onreadystatechange = function (e) {
               if (xhr.readyState === 4) {
                 if (xhr.status === 200) {
@@ -130,11 +123,7 @@
     </main>
     <!--  -->
     <footer>
-      <span id="description">
-        <p>Safe Spaces seeks to assist transgender, intersex, and gender nonconforming individuals in locating safe restroom
-          access
-          by compiling information on gender neutral restroom facilities from sources worldwide.</p>
-      </span>
+      <a href="https://github.com/JacobWithACapitalJ/coop-hack-globe-app.git" target="_blank"><img id="github" src="./images/github-9-512.png" target="_blank"/></a>
       <p ><a href="https://opensource.org/licenses/MIT" target="_blank">MIT License (MIT)</a><br/> Experiments with Chrome</p>
       <img id="NCLogo" src="./images/learn_to_code_manchester_original_second-2.png" />
     </footer>

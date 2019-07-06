@@ -1,14 +1,15 @@
 const express = require('express')
 const app = express()
 const apiRouter = require('./routers/apiRouter')
-const { handleWithCode, catchAll404, handle500 } = require('./errors/')
+const path = require('path')
+app.use(express.static('database/toiletDatabase'))
+app.use(express.static('server/public'))
+app.use(express.static('database'))
 app.use(express.json())
+app.get('/', function(req, res) {
+    res.sendFile(path.join(__dirname.replace(/server/,'') + '/Front End/index.html'));
+});
 
 app.use('/api/', apiRouter)
-app.use('/*', catchAll404)
-
-// app.use(handlePGerrors)
-app.use(handleWithCode)
-app.use(handle500)
 
 module.exports = app

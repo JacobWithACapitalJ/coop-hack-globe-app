@@ -1,11 +1,12 @@
 const express = require('express');
-// const {badMethod} = require('../errors');
 const toiletsRouter = require('./toiletsRouter')
 const apiRouter = express.Router();
 const { getToilets } = require('../controllers')
-// const apiJSON = require('../api.json')
-// apiRouter.route('/').get((req, res, next)=>res.status(200).send(apiJSON))
-//     .all(badMethod)
+const { handleWithCode, catchAll404, handle500 } = require('../errors/')
+
 apiRouter.use('/toilets', toiletsRouter);
+apiRouter.use('/*', catchAll404)
+apiRouter.use(handleWithCode)
+apiRouter.use(handle500)
 
 module.exports = apiRouter;
