@@ -55,7 +55,7 @@
             var container = document.getElementById("container");
             var globe = new DAT.Globe(container);
 
-            console.log(globe);
+            // console.log(globe);
             var i,
               tweens = [];
 
@@ -83,9 +83,9 @@
             }
             var xhr;
             TWEEN.start();
+            const qm = window.location.href.match(/\?\w+=\w+/) || [''];
             xhr = new XMLHttpRequest();
-            xhr.open("GET", "/api/toilets", true);
-            console.log("hello")
+            xhr.open("GET", "/api/toilets" + qm[0], true);
             xhr.onreadystatechange = function (e) {
               if (xhr.readyState === 4) {
                 if (xhr.status === 200) {
@@ -94,23 +94,12 @@
                   let changingTables = []
                   let unisex = []
                   let accessible = []
-                  console.log(xhr.responseText, "<<<<")
+                  // console.log(xhr.responseText, "<<<<")
                   // xhr.responseText || sessionStorage.getItem('toilets')
                   let data = JSON.parse(xhr.responseText);
+                  const maxCount = data.max_count;
                   data = data.toilets
-                  data.forEach((location, index) => {
-                    total_records.push(location.latitude, location.longitude, location.total_records/100);
-                  });
-                  data.forEach((location, index) => {
-                    changingTables.push(location.latitude, location.longitude, location.total_records/100);
-                  });
-                  data.forEach((location, index) => {
-                    unisex.push(location.latitude, location.longitude, location.unisex_count/240);
-                  });
-                  data.forEach((location, index) => {
-                    accessible.push(location.latitude, location.longitude, location.accessible_count/100);
-                  });
-                  var testData = [["seriesA", total_records],["seriesB", changingTables],["seriesC", unisex],["seriesD", accessible]];
+                  var testData = [['seriesA', data.reduce((acc, record) => ([...acc, record.latitude, record.longitude, record.count/maxCount]), [])]];
                   const button = document.getElementById("unisex")
                   // button.addEventListener("click", changeData)
                   // function changeData(){
@@ -128,13 +117,12 @@
                   //   globe.animate();
                   // }
 
-                  console.log(testData);
                   data = testData;
                   window.data = data;
                   
-                    globe.addData(data[2][1], {
+                    globe.addData(data[0][1], {
                       format: "magnitude",
-                      name: data[2][0],
+                      name: data[0][0],
                       animated: true
                     });
                   

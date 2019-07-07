@@ -19,16 +19,32 @@ describe('/api', () => {
             })
     });
     describe('/api/toilets/', () => {
-        describe('GET', () => {
+        describe('GET default', () => {
             it('gets a list of toilets', () => {
                 return request
                     .get('/api/toilets')
                     .expect(200)
-                    // .then(({body: toilets}) => { 
-                    //     expect(toilets.length).to.be.greaterThan(1)
-                    // })
+                    .then(({body }) => { 
+                        const { toilets, max_count } = body;
+                        expect(toilets.length).to.be.greaterThan(1);
+                        toilets.every(toilet => expect(toilet).to.have.keys('longitude', 'latitude', 'count'));
+                        expect(toilets[1].count).to.equal(12);
+                        expect(max_count).to.equal(12);
+                    });
             });
         });
+        describe('GET queries', () => {
+            it('can be filtered', () => {
+                return request
+                .get('/api/toilets?filter=unisex')
+                .expect(200)
+                .then(({ body: { toilets } }) => {
+                    expect(toilets.length).to.be.greaterThan(1);
+                    toilets.every(toilet => expect(toilet).to.have.keys('longitude', 'latitude', 'count'));
+                    expect(toilets[1].count).to.equal(4);
+                })
+            })
+        })
         describe('invalid methods caught', () => {
             it('PUT', () => {
                 return request
