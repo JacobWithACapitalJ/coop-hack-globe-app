@@ -1,37 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="stylesheet" type="text/css" href="style.css" />
-    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-    <script src="scripts.js" defer></script>
-    <link rel="icon" type="image/png" href="./images/safespace-favicon.png" />
-    </head>
-    <title>Safe Spaces</title>
-    <script>window.onresize = function () { location.reload(); }</script>
-  </head>
-  <body>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="scripts.js" defer></script>
+  <link rel="icon" type="image/png" href="./images/safespace-favicon.png" />
+</head>
+<title>Safe Spaces</title>
+<script>window.onresize = function () { location.reload(); }</script>
+</head>
+
+<body>
   <header>
-    <img id="teamLogo" src="./images/safespaces.png"/> 
+    <img id="teamLogo" src="./images/safespaces.png" />
     <div id="titles">
       <br>
-      <span id="description"><p>Safe Spaces seeks to assist transgender, intersex, and gender nonconforming individuals in locating safe restroom access by compiling information on gender neutral restroom facilities from sources worldwide.<br></br>
-        The globe below is a visual representation of all recorded gender neutral restrooms worldwide.</p></span>
+      <span id="description">
+        <p>Safe Spaces seeks to assist transgender, intersex, and gender nonconforming individuals in locating safe
+          restroom access by compiling information on gender neutral restroom facilities from sources
+          worldwide.<br></br>
+          The globe below is a visual representation of all recorded gender neutral restrooms worldwide.</p>
+      </span>
     </div>
-    <a href="https://github.com/JacobWithACapitalJ/coop-hack-globe-app.git" target="_blank"><img id="github" src="./images/github-9-512.png" target="_blank"/></a>
-   
+    <a href="https://github.com/JacobWithACapitalJ/coop-hack-globe-app.git" target="_blank"><img id="github"
+        src="./images/github-9-512.png" target="_blank" /></a>
+
   </header>
   <!--  -->
-    <main class="grid-container">
-      <!-- <div id="filter_menu">
-        <button id='all'>All Data</button>
+  <main class="grid-container">
+    <div id="filter_menu">
+      <form action="/index.html">
+        <button id='all' type="submit">All Data</button>
+      </form>
+      <form action="/index.html">
+        <input type="hidden" name="filter" value="accessible">
         <button id='accessible'>Accessibility</button>
-        <button id="unisex">UniSex</button>
+      </form>
+      <form action="/index.html">
+        <input type="hidden" name="filter" value="unisex">
+        <button id="unisex" type="submit">UniSex</button>
+      </form>
+      <form action="/index.html">
+        <input type="hidden" name="filter" value="changing_table">
         <button id='changing'>Changing Table</button>
-      </div> -->
-      <div id="globe">
+      </form>
+    </div>
+    <div id="globe">
+
       <body id="globeBody">
         <div id="container"></div>
         <div id="info">
@@ -41,8 +60,8 @@
           <span id="year1995" class="year">1995</span>
           <span id="year2000" class="year">2000</span>
         </div>
-       
-      
+
+
         <script type="text/javascript" src="/globe/third-party/Detector.js"></script>
         <script type="text/javascript" src="/globe/third-party/three.min.js"></script>
         <script type="text/javascript" src="/globe/third-party/Tween.js"></script>
@@ -55,7 +74,7 @@
             var container = document.getElementById("container");
             var globe = new DAT.Globe(container);
 
-            console.log(globe);
+            // console.log(globe);
             var i,
               tweens = [];
 
@@ -83,9 +102,9 @@
             }
             var xhr;
             TWEEN.start();
+            const qm = window.location.href.match(/\?\w+=\w+/) || [''];
             xhr = new XMLHttpRequest();
-            xhr.open("GET", "/api/toilets", true);
-            console.log("hello")
+            xhr.open("GET", "/api/toilets" + qm[0], true);
             xhr.onreadystatechange = function (e) {
               if (xhr.readyState === 4) {
                 if (xhr.status === 200) {
@@ -94,23 +113,12 @@
                   let changingTables = []
                   let unisex = []
                   let accessible = []
-                  console.log(xhr.responseText, "<<<<")
+                  // console.log(xhr.responseText, "<<<<")
                   // xhr.responseText || sessionStorage.getItem('toilets')
                   let data = JSON.parse(xhr.responseText);
+                  const maxCount = data.max_count;
                   data = data.toilets
-                  data.forEach((location, index) => {
-                    total_records.push(location.latitude, location.longitude, location.total_records/100);
-                  });
-                  data.forEach((location, index) => {
-                    changingTables.push(location.latitude, location.longitude, location.total_records/100);
-                  });
-                  data.forEach((location, index) => {
-                    unisex.push(location.latitude, location.longitude, location.unisex_count/240);
-                  });
-                  data.forEach((location, index) => {
-                    accessible.push(location.latitude, location.longitude, location.accessible_count/100);
-                  });
-                  var testData = [["seriesA", total_records],["seriesB", changingTables],["seriesC", unisex],["seriesD", accessible]];
+                  var testData = [['seriesA', data.reduce((acc, record) => ([...acc, record.latitude, record.longitude, record.count / maxCount]), [])]];
                   const button = document.getElementById("unisex")
                   // button.addEventListener("click", changeData)
                   // function changeData(){
@@ -128,16 +136,15 @@
                   //   globe.animate();
                   // }
 
-                  console.log(testData);
                   data = testData;
                   window.data = data;
-                  
-                    globe.addData(data[2][1], {
-                      format: "magnitude",
-                      name: data[2][0],
-                      animated: true
-                    });
-                  
+
+                  globe.addData(data[0][1], {
+                    format: "magnitude",
+                    name: data[0][0],
+                    animated: true
+                  });
+
                   globe.createPoints();
                   settime(globe, 0)();
                   globe.animate();
@@ -149,20 +156,21 @@
           }
         </script>
       </body>
-      
-      </html>
+
+</html>
 
 </div>
-    </main>
-    <!--  -->
-    <footer>
-      <div>
-        <p><a href="https://opensource.org/licenses/MIT" target="_blank">MIT License (MIT)</a></p>
-        <p>Experiments with Chrome</p>
-        <p>Data acquired from <a href="https://www.refugerestrooms.org/" target="_blank" title="Refuge Restrooms Homepage">Refuge Restrooms</a></p>
-      </div>
-      <img id="NCLogo" src="./images/learn_to_code_manchester_original_second-2.png" />
-    </footer>
-  </body>
-  
+</main>
+<!--  -->
+<footer>
+  <div>
+    <p><a href="https://opensource.org/licenses/MIT" target="_blank">MIT License (MIT)</a></p>
+    <p>Experiments with Chrome</p>
+    <p>Data acquired from <a href="https://www.refugerestrooms.org/" target="_blank"
+        title="Refuge Restrooms Homepage">Refuge Restrooms</a></p>
+  </div>
+  <img id="NCLogo" src="./images/learn_to_code_manchester_original_second-2.png" />
+</footer>
+</body>
+
 </html>

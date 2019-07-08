@@ -5,12 +5,13 @@ exports.getToilets = ({ query }, res, next) => {
     process.env.NODE_ENV === "production"
       ? "https://thunderbox.herokuapp.com/"
       : "*";
-  fetchToilets(query)
-    .then(toilets => {
+  Promise.all([fetchToilets(query), fetchBiggestToilet({ property: 'total_records' })])
+    .then(([ toilets, biggestToilet ]) => {
+      const max_count = biggestToilet[0].max;
       res.set({
         ["Access-Control-Allow-Origin"]: url
       });
-      res.status(200).send({ toilets });
+      res.status(200).send({ toilets, max_count });
     })
     .catch(next);
 };
